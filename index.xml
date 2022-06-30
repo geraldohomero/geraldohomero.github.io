@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geraldo Homero</title>
+    <link>http://geraldohomero.github.io/</link>
+    <description>Recent content on Geraldo Homero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Thu, 30 Jun 2022 12:12:39 -0300</lastBuildDate><atom:link href="http://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projetos</title>
+      <link>http://geraldohomero.github.io/post/projetos/</link>
+      <pubDate>Thu, 30 Jun 2022 12:12:39 -0300</pubDate>
+      
+      <guid>http://geraldohomero.github.io/post/projetos/</guid>
+      <description>GitHub     Zotero + LibreOffice (Linux) Iriun Webcam error (Linux)  Design     Pop!_OS Wallpaper  </description>
+    </item>
+    
+    <item>
+      <title>Outros</title>
+      <link>http://geraldohomero.github.io/post/outros/</link>
+      <pubDate>Thu, 30 Jun 2022 12:00:33 -0300</pubDate>
+      
+      <guid>http://geraldohomero.github.io/post/outros/</guid>
+      <description>Recomendo    RiseUp, ProtonMail, Linux, Pop!_OS, Tails, LineageOS, Bitwarden, Zotero, YouTube Data Tools, metaGer, DuckDuckGo, TorProject, Firefox, Brave, Authy, FreeOTP, Nextcloud, LibreOffice, OpenStreetMap, Signal, uBlock Origin
+Habilidades     HTML Python R Shell script Linux server  </description>
+    </item>
+    
+    <item>
+      <title>Produções</title>
+      <link>http://geraldohomero.github.io/post/producoes/</link>
+      <pubDate>Thu, 30 Jun 2022 11:58:11 -0300</pubDate>
+      
+      <guid>http://geraldohomero.github.io/post/producoes/</guid>
+      <description>Dissertação    (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)
+ Resumo: Esta dissertação tem como objetivo analisar vídeos de grandes canais da “nova direita” brasileira no YouTube que abarcam o tema da ditadura militar brasileira, bem como seus respectivos comentários. Trabalharemos com o recorte temporal de junho de 2013 até o ano de 2018, pelo fato de as manifestações de junho terem criado um terreno propício para a difusão de ideias “liberais na economia e conservadoras nos costumes” da “nova direita”, o que coincide, justamente, com o seu aparecimento mais ativo na esfera pública e digital.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>http://geraldohomero.github.io/post/sobre/</link>
+      <pubDate>Thu, 30 Jun 2022 11:48:17 -0300</pubDate>
+      
+      <guid>http://geraldohomero.github.io/post/sobre/</guid>
+      <description>Pesquisador de História em nível de mestrado acadêmico na Universidade Federal de Juiz de Fora. Pesquiso principalmente sobre memória, redes sociais, algorítimo, YouTube, estudos críticos da internet, economia política da internet, infoespoliação, ditadura militar brasileira.
+Atuei como Arquivista e Gestor de documentação histórica e institucional da Universidade Federal de Juiz de Fora. Participei de Treinamentos Profissionais e de projetos de Extensão e Iniciação Científica, tendo atuado na preservação, aclimatação, restauro e processamento técnico de acervo documental.</description>
+    </item>
+    
+  </channel>
+</rss>
