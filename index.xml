@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geraldo Homero</title>
+    <title>Geraldo &gt;$ /home/</title>
     <link>http://geraldohomero.github.io/</link>
-    <description>Recent content on Geraldo Homero</description>
+    <description>Recent content on Geraldo &gt;$ /home/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <lastBuildDate>Thu, 30 Jun 2022 18:13:51 -0300</lastBuildDate><atom:link href="http://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Thu, 30 Jun 2022 18:13:51 -0300</pubDate>
       
       <guid>http://geraldohomero.github.io/post/contato/</guid>
-      <description>E-mails:     geraldo.homero@ich.ufjf.br geraldohomero@pm.me   Redes:     Twitter Instagram   </description>
+      <description>E-mail:     geraldo.homero@ich.ufjf.br geraldohomero@pm.me   Redes:     Twitter Instagram LinkedIn   </description>
     </item>
     
     <item>
@@ -22,7 +22,8 @@
       <pubDate>Thu, 30 Jun 2022 12:12:39 -0300</pubDate>
       
       <guid>http://geraldohomero.github.io/post/projetos/</guid>
-      <description>GitHub     Zotero + LibreOffice (Linux) Iriun Webcam error (Linux)   Design     Pop!_OS Wallpaper   </description>
+      <description>Organização de eventos     XXXIV Semana de História da UFJF - Gênero, raça, sexualidade e classe: potencialidades interseccionais sob a ótica do saber histórico - (2018)   Diagramação e normatização dos anais do evento
+  II Encontro Interno de História da UFJF: 30 anos da Constituição Federal e os rumos da democracia no Brasil - (2018) XXXIII Semana de História da UFJF - Representações artísticas brasileiras: do Segundo Reinado à Era Vargas - (2017) XXXII Semana de História da UFJF - O Papel Social do Historiador: Desafios Contemporâneos para a Escrita da História - (2016)  GitHub     Zotero + LibreOffice (Linux) Iriun Webcam error (Linux)   Design     Pop!</description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@
       
       <guid>http://geraldohomero.github.io/post/outros/</guid>
       <description>Recomendo    RiseUp, ProtonMail, Linux, Pop!_OS, Tails, LineageOS, Bitwarden, Zotero, YouTube Data Tools, metaGer, DuckDuckGo, TorProject, Firefox, Brave, Authy, FreeOTP, Nextcloud, LibreOffice, OpenStreetMap, Signal, uBlock Origin
- Habilidades     HTML Shell script Python R Linux server   </description>
+ Habilidades     HTML Shell script Python R   </description>
     </item>
     
     <item>
@@ -41,7 +42,7 @@
       <pubDate>Thu, 30 Jun 2022 11:58:11 -0300</pubDate>
       
       <guid>http://geraldohomero.github.io/post/producoes/</guid>
-      <description>Dissertação    (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)
+      <description>Dissertação (Mestrado/UFJF)    (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)
  Resumo: Esta dissertação tem como objetivo analisar vídeos de grandes canais da “nova direita” brasileira no YouTube que abarcam o tema da ditadura militar brasileira, bem como seus respectivos comentários. Trabalharemos com o recorte temporal de junho de 2013 até o ano de 2018, pelo fato de as manifestações de junho terem criado um terreno propício para a difusão de ideias “liberais na economia e conservadoras nos costumes” da “nova direita”, o que coincide, justamente, com o seu aparecimento mais ativo na esfera pública e digital.</description>
     </item>
     
