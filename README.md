@@ -1,3 +1,4 @@
-# geraldohomero.github.io
+geraldohomero.github.io
 
 GitHub-Pages
+
