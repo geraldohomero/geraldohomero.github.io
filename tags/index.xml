@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Geraldo &gt;_</title>
-    <link>http://geraldohomero.github.io/tags/</link>
-    <description>Recent content in Tags on Geraldo &gt;_</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language><atom:link href="http://geraldohomero.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Geraldo Homero</title>
+        <link>http://example.org/tags/</link>
+        <description>Tags - Tag - Geraldo Homero</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
+            <webMaster>geraldohomero@pm.me (Geraldo Homero)</webMaster><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

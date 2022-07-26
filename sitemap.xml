@@ -1,29 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://geraldohomero.github.io/contato/</loc>
-    <lastmod>2022-06-30T18:13:51-03:00</lastmod>
-  </url><url>
-    <loc>http://geraldohomero.github.io/projetos/</loc>
-    <lastmod>2022-06-30T12:12:39-03:00</lastmod>
-  </url><url>
-    <loc>http://geraldohomero.github.io/outros/</loc>
-    <lastmod>2022-06-30T12:00:33-03:00</lastmod>
-  </url><url>
-    <loc>http://geraldohomero.github.io/producoes/</loc>
-    <lastmod>2022-06-30T11:58:11-03:00</lastmod>
-  </url><url>
-    <loc>http://geraldohomero.github.io/sobre/</loc>
-    <lastmod>2022-06-30T11:48:17-03:00</lastmod>
-  </url><url>
-    <loc>http://geraldohomero.github.io/best-foss-alternatives/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://geraldohomero.github.io/categories/</loc>
-  </url><url>
-    <loc>http://geraldohomero.github.io/</loc>
-  </url><url>
-    <loc>http://geraldohomero.github.io/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://example.org/contato/</loc><lastmod>2022-06-30T18:13:51-03:00</lastmod></url><url>
+            <loc>http://example.org/projetos/</loc><lastmod>2022-06-30T12:12:39-03:00</lastmod></url><url>
+            <loc>http://example.org/outros/</loc><lastmod>2022-06-30T12:00:33-03:00</lastmod></url><url>
+            <loc>http://example.org/producoes/</loc><lastmod>2022-06-30T11:58:11-03:00</lastmod></url><url>
+            <loc>http://example.org/sobre/</loc><lastmod>2022-06-30T11:48:17-03:00</lastmod></url><url>
+            <loc>http://example.org/best-foss-alternatives/</loc><priority>0</priority></url><url>
+            <loc>http://example.org/categories/</loc></url><url>
+            <loc>http://example.org/</loc></url><url>
+            <loc>http://example.org/tags/</loc></url></urlset>

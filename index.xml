@@ -1,70 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Geraldo &gt;_</title>
-    <link>http://geraldohomero.github.io/</link>
-    <description>Recent content on Geraldo &gt;_</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language><atom:link href="http://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contato</title>
-      <link>http://geraldohomero.github.io/contato/</link>
-      <pubDate>Thu, 30 Jun 2022 18:13:51 -0300</pubDate>
-      
-      <guid>http://geraldohomero.github.io/contato/</guid>
-      <description>E-mail:     geraldo.homero@ich.ufjf.br geraldohomero@pm.me   Redes:     Twitter Instagram LinkedIn   </description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>http://geraldohomero.github.io/projetos/</link>
-      <pubDate>Thu, 30 Jun 2022 12:12:39 -0300</pubDate>
-      
-      <guid>http://geraldohomero.github.io/projetos/</guid>
-      <description>Organização de eventos     XXXIV Semana de História da UFJF - Gênero, raça, sexualidade e classe: potencialidades interseccionais sob a ótica do saber histórico - (2018)   Diagramação e normatização dos anais do evento
-  II Encontro Interno de História da UFJF: 30 anos da Constituição Federal e os rumos da democracia no Brasil - (2018) XXXIII Semana de História da UFJF - Representações artísticas brasileiras: do Segundo Reinado à Era Vargas - (2017) XXXII Semana de História da UFJF - O Papel Social do Historiador: Desafios Contemporâneos para a Escrita da História - (2016)   GitHub     Best Free and Open Source (not all) Software Alternatives (for Security and Privacy) Zotero + LibreOffice Integration on Linux Iriun Webcam Error (Linux)   Design     Pop!</description>
-    </item>
-    
-    <item>
-      <title>Outros</title>
-      <link>http://geraldohomero.github.io/outros/</link>
-      <pubDate>Thu, 30 Jun 2022 12:00:33 -0300</pubDate>
-      
-      <guid>http://geraldohomero.github.io/outros/</guid>
-      <description>Recomendo    RiseUp, ProtonMail, Linux, Pop!_OS, Tails, LineageOS, Bitwarden, Zotero, Sci-Hub, YouTube Data Tools, metaGer, DuckDuckGo, TorProject, Firefox, Brave, Authy, FreeOTP, Nextcloud, LibreOffice, OpenStreetMap, Signal, uBlock Origin, Dark Reader
-Lista Completa
- Habilidades     VSCodium Linux HTML CSS JavaScript React Hugo Shell GIMP   </description>
-    </item>
-    
-    <item>
-      <title>Produções</title>
-      <link>http://geraldohomero.github.io/producoes/</link>
-      <pubDate>Thu, 30 Jun 2022 11:58:11 -0300</pubDate>
-      
-      <guid>http://geraldohomero.github.io/producoes/</guid>
-      <description>Dissertação (Mestrado/UFJF)    (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)
- Resumo: Esta dissertação tem como objetivo analisar vídeos de grandes canais da “nova direita” brasileira no YouTube que abarcam o tema da ditadura militar brasileira, bem como seus respectivos comentários. Trabalharemos com o recorte temporal de junho de 2013 até o ano de 2018, pelo fato de as manifestações de junho terem criado um terreno propício para a difusão de ideias “liberais na economia e conservadoras nos costumes” da “nova direita”, o que coincide, justamente, com o seu aparecimento mais ativo na esfera pública e digital.</description>
-    </item>
-    
-    <item>
-      <title>Sobre</title>
-      <link>http://geraldohomero.github.io/sobre/</link>
-      <pubDate>Thu, 30 Jun 2022 11:48:17 -0300</pubDate>
-      
-      <guid>http://geraldohomero.github.io/sobre/</guid>
-      <description>Pesquisador de História em nível de mestrado acadêmico na Universidade Federal de Juiz de Fora. Pesquiso principalmente sobre memória, redes sociais, algorítimo, YouTube, estudos críticos da internet, economia política da internet, infoespoliação, ditadura militar brasileira.
-Atuei como Arquivista e Gestor de documentação histórica e institucional da Universidade Federal de Juiz de Fora. Participei de Treinamentos Profissionais e de projetos de Extensão e Iniciação Científica, tendo atuado na preservação, aclimatação, restauro e processamento técnico de acervo documental.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://geraldohomero.github.io/best-foss-alternatives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://geraldohomero.github.io/best-foss-alternatives/</guid>
-      <description>Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)    NOS = Not Open Source
-Search engines     Brave / beta MetaGer Startpage Qwant Searx YaCy DuckDuckGo  Browsers     Tor Firefox Brave Bromite - Android  E-mails     ProtonMail Tutanota Posteo Mailbox RiseUp Mailfence / NOS Runbox / NOS  Authenticators     FreeOPT Bitwarden / Paid version AndOPT - Android Authy / NOS  Password Managers     Bitwarden KeepassXC Nordpass / NOS  Messaging apps     Signal Wire Session Element Tox  VPN     Mullvad Proton VPN Mozilla VPN RiseUp VPN Private Internet Access Windscribe  Calendar     Proton Calendar Tutanota Posteo Mailbox Lightning Calendar Nextcloud Calendar Etar Gnome Calendar Kalendar  To-do and notes     Standard Notes Joplin OpenProject QOwnNotes Simplenote CherryTree Zettlr  Cloud and Sync     Nextcloud Owncloud Filen Syncthing Cryptomator Mega / NOS pCloud / NOS  Office     LibreOffice Cryptpad Caligra OnlyOffice Apache OpenOffice  PDF     Okular Sumatra Evince LibreOffice Draw  Image editors     GIMP PhotoGIMP Krita  Mind-mapping     Freeplane FreeMind diagrams vym TiddlyMap MindApps - Online  Research Managers     Zotero JabRef Qiqqa  Maps     OpenStreetMap OsmAnd - iOS / Android  Readers (Feed/RSS)     Raven Feeder - Android  To know more     https://www.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Geraldo Homero</title>
+        <link>http://example.org/</link>
+        <description>Site pessoal Geraldo Homero</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
+            <webMaster>geraldohomero@pm.me (Geraldo Homero)</webMaster>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
