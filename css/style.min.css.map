@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/mnt/403EBC173EBC07C4/(1) Universidade/Programação/Github/Code/blog/geraldohomero",
+	"sourceRoot": "/mnt/403EBC173EBC07C4/(1) Universidade/Programação/Github/Repos/blog/geraldohomero",
 	"sources": [
 		"themes/loveit/assets/css/style.scss",
 		"themes/loveit/assets/lib/normalize/normalize.css",
