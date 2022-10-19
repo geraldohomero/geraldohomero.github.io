@@ -8,6 +8,7 @@
             <loc>http://example.org/producoes/</loc><lastmod>2022-06-30T11:58:11-03:00</lastmod></url><url>
             <loc>http://example.org/sobre/</loc><lastmod>2022-06-30T11:48:17-03:00</lastmod></url><url>
             <loc>http://example.org/best-foss-alternatives/</loc><priority>0</priority></url><url>
+            <loc>http://example.org/certificados/</loc><priority>0</priority></url><url>
             <loc>http://example.org/categories/</loc></url><url>
             <loc>http://example.org/</loc></url><url>
             <loc>http://example.org/tags/</loc></url></urlset>
