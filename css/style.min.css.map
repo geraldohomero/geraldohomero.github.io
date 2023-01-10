@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/mnt/usb-Samsung_M3_Portable_18A97DEA19000020-0:0-part1/(1) Universidade/Programação/Github/blog/geraldohomero",
+	"sourceRoot": "/home/geraldohomero/Documentos/Github/blog/geraldohomero",
 	"sources": [
 		"themes/loveit/assets/css/style.scss",
 		"themes/loveit/assets/css/_variables.scss",
