@@ -2,6 +2,24 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://example.org/en/about/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="http://example.org/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://example.org/en/about/"
+                    /></url><url>
+            <loc>http://example.org/en/academic/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="http://example.org/academic/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://example.org/en/academic/"
+                    /></url><url>
             <loc>http://example.org/en/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
@@ -11,6 +29,15 @@
                     hreflang="en"
                     href="http://example.org/en/categories/"
                     /></url><url>
+            <loc>http://example.org/en/contact/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="http://example.org/contact/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://example.org/en/contact/"
+                    /></url><url>
             <loc>http://example.org/en/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
@@ -19,6 +46,15 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://example.org/en/"
+                    /></url><url>
+            <loc>http://example.org/en/projects/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="http://example.org/projects/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://example.org/en/projects/"
                     /></url><url>
             <loc>http://example.org/en/tags/</loc><xhtml:link
                         rel="alternate"
