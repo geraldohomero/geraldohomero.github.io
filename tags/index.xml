@@ -3,6 +3,6 @@
         <title>Tags - Tag - Geraldo Homero</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - Geraldo Homero</description>
-        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
+        <generator>Hugo -- gohugo.io</generator><language>pt-BR</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
             <webMaster>geraldohomero@pm.me (Geraldo Homero)</webMaster><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Geraldo Homero</title>
+        <title>Categories - Categoria - Geraldo Homero</title>
         <link>http://example.org/categories/</link>
-        <description>Categories - Category - Geraldo Homero</description>
-        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
+        <description>Categories - Categoria - Geraldo Homero</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt-BR</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
             <webMaster>geraldohomero@pm.me (Geraldo Homero)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
