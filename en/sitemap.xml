@@ -2,66 +2,75 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/en/about/</loc><xhtml:link
+            <loc>http://geraldohomero.github.io/en/certificates/</loc><lastmod>2022-06-30T11:48:17-03:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
-                        href="http://example.org/about/"
+                        href="http://geraldohomero.github.io/certificates/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/about/"
+                    href="http://geraldohomero.github.io/en/certificates/"
                     /></url><url>
-            <loc>http://example.org/en/academic/</loc><xhtml:link
+            <loc>http://geraldohomero.github.io/en/about/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
-                        href="http://example.org/academic/"
+                        href="http://geraldohomero.github.io/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/academic/"
+                    href="http://geraldohomero.github.io/en/about/"
                     /></url><url>
-            <loc>http://example.org/en/categories/</loc><xhtml:link
+            <loc>http://geraldohomero.github.io/en/academic/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
-                        href="http://example.org/categories/"
+                        href="http://geraldohomero.github.io/academic/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/categories/"
+                    href="http://geraldohomero.github.io/en/academic/"
                     /></url><url>
-            <loc>http://example.org/en/contact/</loc><xhtml:link
+            <loc>http://geraldohomero.github.io/en/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
-                        href="http://example.org/contact/"
+                        href="http://geraldohomero.github.io/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/contact/"
+                    href="http://geraldohomero.github.io/en/categories/"
                     /></url><url>
-            <loc>http://example.org/en/</loc><xhtml:link
+            <loc>http://geraldohomero.github.io/en/contact/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
-                        href="http://example.org/"
+                        href="http://geraldohomero.github.io/contact/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/"
+                    href="http://geraldohomero.github.io/en/contact/"
                     /></url><url>
-            <loc>http://example.org/en/projects/</loc><xhtml:link
+            <loc>http://geraldohomero.github.io/en/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
-                        href="http://example.org/projects/"
+                        href="http://geraldohomero.github.io/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/projects/"
+                    href="http://geraldohomero.github.io/en/"
                     /></url><url>
-            <loc>http://example.org/en/tags/</loc><xhtml:link
+            <loc>http://geraldohomero.github.io/en/projects/</loc><xhtml:link
                         rel="alternate"
                         hreflang="pt-br"
-                        href="http://example.org/tags/"
+                        href="http://geraldohomero.github.io/projects/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/"
+                    href="http://geraldohomero.github.io/en/projects/"
+                    /></url><url>
+            <loc>http://geraldohomero.github.io/en/tags/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="pt-br"
+                        href="http://geraldohomero.github.io/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://geraldohomero.github.io/en/tags/"
                     /></url></urlset>

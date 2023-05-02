@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Geraldo Homero</title>
-        <link>http://example.org/</link>
+        <link>http://geraldohomero.github.io/</link>
         <description>Site pessoal Geraldo Homero</description>
-        <generator>Hugo -- gohugo.io</generator><language>pt-BR</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
+        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
             <webMaster>geraldohomero@pm.me (Geraldo Homero)</webMaster>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
