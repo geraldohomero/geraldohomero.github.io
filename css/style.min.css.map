@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/geraldohomero/Documentos/Github/blog/geraldohomero",
+	"sourceRoot": "/home/geraldohomero/Documents/Github/blog/geraldohomero",
 	"sources": [
 		"themes/loveit/assets/css/style.scss",
 		"themes/loveit/assets/css/_variables.scss",
