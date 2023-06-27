@@ -1,10 +1,11 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Geraldo Homero</title>
-        <link>http://geraldohomero.github.io/</link>
-        <description>Site pessoal Geraldo Homero</description>
-        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>geraldohomero@pm.me (Geraldo Homero)</managingEditor>
-            <webMaster>geraldohomero@pm.me (Geraldo Homero)</webMaster>
-            <atom:link href="http://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Blowfish! :tada: on Geraldo Homero &gt;_</title>
+    <link>https://geraldohomero.github.io/</link>
+    <description>Recent content in Welcome to Blowfish! :tada: on Geraldo Homero &gt;_</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
