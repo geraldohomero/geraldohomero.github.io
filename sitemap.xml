@@ -2,12 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://geraldohomero.github.io/en/sitemap.xml</loc>
+    <loc>https://geraldohomero.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://geraldohomero.github.io/pt-br/sitemap.xml</loc>
+    <loc>https://geraldohomero.github.io/pt-br/sitemap.xml</loc>
     
   </sitemap>
   

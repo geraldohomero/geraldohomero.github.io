@@ -1,76 +1,132 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>http://geraldohomero.github.io/en/certificates/</loc><lastmod>2022-06-30T11:48:17-03:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/certificates/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/certificates/"
-                    /></url><url>
-            <loc>http://geraldohomero.github.io/en/about/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/about/"
-                    /></url><url>
-            <loc>http://geraldohomero.github.io/en/academic/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/academic/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/academic/"
-                    /></url><url>
-            <loc>http://geraldohomero.github.io/en/categories/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/categories/"
-                    /></url><url>
-            <loc>http://geraldohomero.github.io/en/contact/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/contact/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/contact/"
-                    /></url><url>
-            <loc>http://geraldohomero.github.io/en/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/"
-                    /></url><url>
-            <loc>http://geraldohomero.github.io/en/projects/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/projects/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/projects/"
-                    /></url><url>
-            <loc>http://geraldohomero.github.io/en/tags/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="pt-br"
-                        href="http://geraldohomero.github.io/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://geraldohomero.github.io/en/tags/"
-                    /></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/posts/</loc>
+            <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/</loc>
+            <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/certificates/</loc>
+            <priority>0</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/certificates/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/certificates/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/about/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/about/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/academic/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/academic/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/academic/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/contact/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/contact/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/contact/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/projects/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/projects/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/projects/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>
