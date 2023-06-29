@@ -5,4 +5,4 @@
 
 2023 Geraldo Homero · [Hugo](https://gohugo.io/) & [Blowfish](https://blowfish.page/) & [GitHub-Pages](https://pages.github.com/)
 
-![image](https://user-images.githubusercontent.com/70844369/212449692-1ba86d01-8711-4fd3-acee-f054efea5136.png#vitrinedev)
+![image](https://github.com/geraldohomero/geraldohomero.github.io/assets/70844369/2adb2862-207a-431f-9f1e-b9ea15b15350#vitrinedev)
