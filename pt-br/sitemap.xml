@@ -4,6 +4,24 @@
   
     
       <url>
+            <loc>https://geraldohomero.github.io/pt-br/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>https://geraldohomero.github.io/pt-br/certificates/</loc>
             <priority>0</priority>
             <xhtml:link
@@ -19,6 +37,24 @@
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/pt-br/posts/best-foss/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/posts/best-foss/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/posts/best-foss/"
+              />
+          </url>
     
   
     
@@ -43,18 +79,18 @@
   
     
       <url>
-            <loc>https://geraldohomero.github.io/pt-br/</loc>
+            <loc>https://geraldohomero.github.io/pt-br/posts/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://geraldohomero.github.io/"
+              href="https://geraldohomero.github.io/posts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/"
+              href="https://geraldohomero.github.io/pt-br/posts/"
               />
           </url>
     
@@ -115,6 +151,24 @@
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://geraldohomero.github.io/posts/zotero-libreoffice/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/"
+              />
+          </url>
     
   
 </urlset>
