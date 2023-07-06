@@ -42,6 +42,13 @@
   
     
       <url>
+            <loc>https://geraldohomero.github.io/certificados/</loc>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://geraldohomero.github.io/certificates/</loc>
             <priority>0</priority>
             <xhtml:link
