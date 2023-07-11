@@ -1,4 +1,3 @@
-
 # https://geraldohomero.github.io
 
 ## That's my personal website!
