@@ -5,6 +5,8 @@
     <link>https://geraldohomero.github.io/pt-br/</link>
     <description>Recent content on Geraldo Homero &gt;_</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://geraldohomero.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <copyright>© 2023 Geraldo Homero</copyright>
+    <atom:link href="https://geraldohomero.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
