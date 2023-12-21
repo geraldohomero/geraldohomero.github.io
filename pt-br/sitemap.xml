@@ -1,174 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/certificates/</loc>
-            <priority>0</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/certificates/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/certificates/"
-              />
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/posts/best-foss/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/posts/best-foss/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/posts/best-foss/"
-              />
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/contact/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/contact/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/contact/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/posts/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/posts/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/posts/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/academic/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/academic/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/academic/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/projects/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/projects/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/projects/"
-              />
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/about/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/about/"
-              />
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://geraldohomero.github.io/posts/zotero-libreoffice/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="pt-br"
-              href="https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/"
-              />
-          </url>
-    
-  
+
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/certificates/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/certificates/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/certificates/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/posts/best-foss/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/posts/best-foss/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/posts/best-foss/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/contact/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/contact/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/contact/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/posts/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/academic/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/academic/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/academic/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/projects/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/projects/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/about/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/about/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/about/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/posts/zotero-libreoffice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/"
+    />
+  </url>
 </urlset>
