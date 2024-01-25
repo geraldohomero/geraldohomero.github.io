@@ -2,7 +2,7 @@
 
 ## That's my personal website!
 
-2023 Geraldo Homero · [Hugo](https://gohugo.io/) & [Blowfish](https://blowfish.page/) 
+2024 Geraldo Homero · [Hugo](https://gohugo.io/) & [Blowfish](https://blowfish.page/) 
 
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
