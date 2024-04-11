@@ -14,7 +14,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/"
     />
   </url>
@@ -30,7 +30,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/posts/"
     />
   </url>
@@ -50,7 +50,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/certificates/"
     />
   </url>
@@ -65,7 +65,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/about/"
     />
   </url>
@@ -80,7 +80,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/academic/"
     />
   </url>
@@ -95,7 +95,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/posts/best-foss/"
     />
   </url>
@@ -110,7 +110,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/contact/"
     />
   </url>
@@ -125,7 +125,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/projects/"
     />
   </url>
@@ -140,7 +140,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="en-us"
       href="https://geraldohomero.github.io/posts/zotero-libreoffice/"
     />
   </url>
