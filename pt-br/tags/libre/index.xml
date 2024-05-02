@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libre on Geraldo Homero &gt;_</title>
+    <link>https://example.org/pt-br/tags/libre/</link>
+    <description>Recent content in libre on Geraldo Homero &gt;_</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Geraldo Homero</copyright>
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/pt-br/tags/libre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Melhores alternativas de software livre e de código aberto (nem todos) para foco em privacidade e segurança</title>
+      <link>https://example.org/pt-br/posts/1714494379888-best-foss/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pt-br/posts/1714494379888-best-foss/</guid>
+      <description>Esta é uma lista dos melhores softwares livres e de código aberto para segurança e privacidade.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/pt-br/posts/1714494379888-best-foss/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

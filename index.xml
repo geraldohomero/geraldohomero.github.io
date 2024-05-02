@@ -2,11 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geraldo Homero &gt;_</title>
-    <link>https://geraldohomero.github.io/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Geraldo Homero &gt;_</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reacting</title>
+      <link>https://example.org/posts/1714437336565-reacting/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1714437336565-reacting/</guid>
+      <description>My journey with React.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1714437336565-reacting/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>I&amp;rsquo;ve always been deeply curious about technology, and over the years, my interest has blossomed into a full-fledged passion.</description>
+      
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://example.org/academic/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/academic/</guid>
+      <description>ORCID Lattes ResearchGate Google Scholar Dissertation (Master&amp;rsquo;s/UFJF) # (De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the &amp;ldquo;new right&amp;rdquo; on YouTube (2013-2018)</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.org/projects/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/</guid>
+      <description>WorstGameEver # geraldohomero/worst-game-ever Play along and be frustrated JavaScript 0 0 Technologies: JavaScript, Node.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rusting</title>
+      <link>https://example.org/posts/1714355601702-rusting/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1714355601702-rusting/</guid>
+      <description>My journey with Rust programming language</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1714355601702-rusting/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Best Free and Open Source Alternatives (not all) for Privacy and Security</title>
+      <link>https://example.org/posts/1714494379888-best-foss/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1714494379888-best-foss/</guid>
+      <description>This is a list of the best free and open source software alternatives for security and privacy.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1714494379888-best-foss/feature.png" />
+    </item>
+    
+    <item>
+      <title>Zotero &#43; LibreOffice Integration (Linux/Ubuntu)</title>
+      <link>https://example.org/posts/1714494392851-zotero-libreoffice/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1714494392851-zotero-libreoffice/</guid>
+      <description>Zotero + LibreOffice (Linux/Ubuntu based distros) - Credits to Kameid</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1714494392851-zotero-libreoffice/feature.jpg" />
+    </item>
+    
   </channel>
 </rss>

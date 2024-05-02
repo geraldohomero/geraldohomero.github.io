@@ -3,138 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/"
+      hreflang="en"
+      href="https://example.org/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/"
+      href="https://example.org/pt-br/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/certificates/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/posts/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/certificates/"
+      hreflang="en"
+      href="https://example.org/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/certificates/"
+      href="https://example.org/pt-br/posts/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/posts/best-foss/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/posts/1714437336565-reacting/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/posts/best-foss/"
+      hreflang="en"
+      href="https://example.org/posts/1714437336565-reacting/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/posts/best-foss/"
+      href="https://example.org/pt-br/posts/1714437336565-reacting/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/contact/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/posts/1714355601702-rusting/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/contact/"
+      hreflang="en"
+      href="https://example.org/posts/1714355601702-rusting/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/contact/"
+      href="https://example.org/pt-br/posts/1714355601702-rusting/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/posts/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/academic/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/posts/"
+      hreflang="en"
+      href="https://example.org/academic/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/posts/"
+      href="https://example.org/pt-br/academic/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/academic/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/projects/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/academic/"
+      hreflang="en"
+      href="https://example.org/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/academic/"
+      href="https://example.org/pt-br/projects/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/projects/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/about/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/projects/"
+      hreflang="en"
+      href="https://example.org/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/projects/"
+      href="https://example.org/pt-br/about/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/about/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/posts/1714494379888-best-foss/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/about/"
+      hreflang="en"
+      href="https://example.org/posts/1714494379888-best-foss/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/about/"
+      href="https://example.org/pt-br/posts/1714494379888-best-foss/"
     />
   </url>
   <url>
-    <loc>https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/</loc>
-    <changefreq>always</changefreq>
+    <loc>https://example.org/pt-br/posts/1714494392851-zotero-libreoffice/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en-us"
-      href="https://geraldohomero.github.io/posts/zotero-libreoffice/"
+      hreflang="en"
+      href="https://example.org/posts/1714494392851-zotero-libreoffice/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://geraldohomero.github.io/pt-br/posts/zotero-libreoffice/"
+      href="https://example.org/pt-br/posts/1714494392851-zotero-libreoffice/"
     />
   </url>
 </urlset>

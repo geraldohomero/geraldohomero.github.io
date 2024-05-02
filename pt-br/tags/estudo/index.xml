@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estudo on Geraldo Homero &gt;_</title>
+    <link>https://example.org/pt-br/tags/estudo/</link>
+    <description>Recent content in estudo on Geraldo Homero &gt;_</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Geraldo Homero</copyright>
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/pt-br/tags/estudo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reacting - Reajamento - Reação - Reagiabilidade</title>
+      <link>https://example.org/pt-br/posts/1714437336565-reacting/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pt-br/posts/1714437336565-reacting/</guid>
+      <description>Minha jornada com React.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/pt-br/posts/1714437336565-reacting/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

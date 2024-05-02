@@ -2,11 +2,211 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Geraldo Homero &gt;_</title>
-    <link>https://geraldohomero.github.io/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Geraldo Homero &gt;_</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <atom:link href="https://geraldohomero.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javascript</title>
+      <link>https://example.org/tags/javascript/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://example.org/tags/react/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/react/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>study</title>
+      <link>https://example.org/tags/study/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/study/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://example.org/tags/about/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>https://example.org/tags/academic/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/academic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cargo</title>
+      <link>https://example.org/tags/cargo/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/cargo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://example.org/tags/projects/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://example.org/tags/rust/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/rust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://example.org/tags/tech/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>alternatives</title>
+      <link>https://example.org/tags/alternatives/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/alternatives/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>foss</title>
+      <link>https://example.org/tags/foss/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/foss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>libre</title>
+      <link>https://example.org/tags/libre/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/libre/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://example.org/tags/privacy/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://example.org/tags/security/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>libreoffice</title>
+      <link>https://example.org/tags/libreoffice/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/libreoffice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://example.org/tags/linux/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>plugin</title>
+      <link>https://example.org/tags/plugin/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/plugin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>troubleshooting</title>
+      <link>https://example.org/tags/troubleshooting/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/troubleshooting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://example.org/tags/ubuntu/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/ubuntu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>zotero</title>
+      <link>https://example.org/tags/zotero/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/zotero/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
