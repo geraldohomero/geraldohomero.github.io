@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://example.org/pt-br/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,54 +16,6 @@
       rel="alternate"
       hreflang="pt-br"
       href="https://example.org/pt-br/"
-    />
-  </url>
-  <url>
-    <loc>https://example.org/pt-br/posts/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://example.org/pt-br/posts/1714437336565-reacting/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/posts/1714437336565-reacting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/posts/1714437336565-reacting/"
-    />
-  </url>
-  <url>
-    <loc>https://example.org/pt-br/posts/1714355601702-rusting/</loc>
-    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/posts/1714355601702-rusting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/posts/1714355601702-rusting/"
     />
   </url>
   <url>
@@ -128,6 +80,22 @@
       rel="alternate"
       hreflang="pt-br"
       href="https://example.org/pt-br/posts/1714494379888-best-foss/"
+    />
+  </url>
+  <url>
+    <loc>https://example.org/pt-br/posts/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://example.org/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://example.org/pt-br/posts/"
     />
   </url>
   <url>

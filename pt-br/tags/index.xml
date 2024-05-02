@@ -7,47 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>estudo</title>
-      <link>https://example.org/pt-br/tags/estudo/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/pt-br/tags/estudo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>javascript</title>
-      <link>https://example.org/pt-br/tags/javascript/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/pt-br/tags/javascript/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>reaja</title>
-      <link>https://example.org/pt-br/tags/reaja/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/pt-br/tags/reaja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>cargo</title>
-      <link>https://example.org/pt-br/tags/cargo/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/pt-br/tags/cargo/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pesquisa</title>
       <link>https://example.org/pt-br/tags/pesquisa/</link>
@@ -64,16 +24,6 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://example.org/pt-br/tags/projects/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>rust</title>
-      <link>https://example.org/pt-br/tags/rust/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/pt-br/tags/rust/</guid>
       <description></description>
       
     </item>

@@ -7,37 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>javascript</title>
-      <link>https://example.org/tags/javascript/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/javascript/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>react</title>
-      <link>https://example.org/tags/react/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/react/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>study</title>
-      <link>https://example.org/tags/study/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/study/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
       <link>https://example.org/tags/about/</link>
@@ -59,16 +29,6 @@
     </item>
     
     <item>
-      <title>cargo</title>
-      <link>https://example.org/tags/cargo/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/cargo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>projects</title>
       <link>https://example.org/tags/projects/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
@@ -79,11 +39,11 @@
     </item>
     
     <item>
-      <title>rust</title>
-      <link>https://example.org/tags/rust/</link>
+      <title>study</title>
+      <link>https://example.org/tags/study/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/rust/</guid>
+      <guid>https://example.org/tags/study/</guid>
       <description></description>
       
     </item>

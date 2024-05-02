@@ -3,54 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/"
-    />
-  </url>
-  <url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://example.org/posts/1714437336565-reacting/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/posts/1714437336565-reacting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/posts/1714437336565-reacting/"
-    />
-  </url>
-  <url>
     <loc>https://example.org/about/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -83,6 +35,22 @@
     />
   </url>
   <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://example.org/pt-br/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://example.org/"
+    />
+  </url>
+  <url>
     <loc>https://example.org/projects/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -99,22 +67,6 @@
     />
   </url>
   <url>
-    <loc>https://example.org/posts/1714355601702-rusting/</loc>
-    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/posts/1714355601702-rusting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/posts/1714355601702-rusting/"
-    />
-  </url>
-  <url>
     <loc>https://example.org/posts/1714494379888-best-foss/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -128,6 +80,22 @@
       rel="alternate"
       hreflang="en"
       href="https://example.org/posts/1714494379888-best-foss/"
+    />
+  </url>
+  <url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://example.org/pt-br/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://example.org/posts/"
     />
   </url>
   <url>
