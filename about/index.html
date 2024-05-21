@@ -1040,7 +1040,7 @@
         h.each(function (i, e) {
           e = $(e);
           if (e.offset().top - $(window).height()/3 <= currentScroll) {
-            id = e.attr('id');
+            id = decodeURIComponent(e.attr('id'));
           }
         });
         var active = $toc.find('a.active');      
@@ -1067,6 +1067,7 @@
     }
   })();
 </script>
+
    </div>
       </div>
       
@@ -1409,7 +1410,7 @@ In 2022, I embarked on my journey in Web Development at PUC Minas, diligently ho
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/posts/"
             title="Posts">
             
-            Posts
+            posts
           </a>
         </li>
         
