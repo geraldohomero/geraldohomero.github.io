@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.org/sitemap.xml
+Sitemap: https://geraldohomero.github.io/sitemap.xml

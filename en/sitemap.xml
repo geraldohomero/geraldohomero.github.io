@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://geraldohomero.github.io/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/posts/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://geraldohomero.github.io/pt-br/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://geraldohomero.github.io/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://geraldohomero.github.io/about/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://example.org/pt-br/about/"
+      href="https://geraldohomero.github.io/pt-br/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/about/"
+      href="https://geraldohomero.github.io/about/"
     />
   </url>
   <url>
-    <loc>https://example.org/academic/</loc>
+    <loc>https://geraldohomero.github.io/academic/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://example.org/pt-br/academic/"
+      href="https://geraldohomero.github.io/pt-br/academic/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/academic/"
+      href="https://geraldohomero.github.io/academic/"
     />
   </url>
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://geraldohomero.github.io/projects/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://example.org/pt-br/"
+      href="https://geraldohomero.github.io/pt-br/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/"
+      href="https://geraldohomero.github.io/projects/"
     />
   </url>
   <url>
-    <loc>https://example.org/projects/</loc>
-    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/projects/"
-    />
-  </url>
-  <url>
-    <loc>https://example.org/posts/1714494379888-best-foss/</loc>
+    <loc>https://geraldohomero.github.io/posts/1714494379888-best-foss/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://example.org/pt-br/posts/1714494379888-best-foss/"
+      href="https://geraldohomero.github.io/pt-br/posts/1714494379888-best-foss/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/posts/1714494379888-best-foss/"
+      href="https://geraldohomero.github.io/posts/1714494379888-best-foss/"
     />
   </url>
   <url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://example.org/pt-br/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.org/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://example.org/posts/1714494392851-zotero-libreoffice/</loc>
+    <loc>https://geraldohomero.github.io/posts/1714494392851-zotero-libreoffice/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://example.org/pt-br/posts/1714494392851-zotero-libreoffice/"
+      href="https://geraldohomero.github.io/pt-br/posts/1714494392851-zotero-libreoffice/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/posts/1714494392851-zotero-libreoffice/"
+      href="https://geraldohomero.github.io/posts/1714494392851-zotero-libreoffice/"
     />
   </url>
 </urlset>
