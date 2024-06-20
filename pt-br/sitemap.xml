@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/pt-br/</loc>
+    <loc>https://geraldohomero.github.io/pt-br/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="https://geraldohomero.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/"
+      href="https://geraldohomero.github.io/pt-br/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/posts/</loc>
+    <loc>https://geraldohomero.github.io/pt-br/posts/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/"
+      href="https://geraldohomero.github.io/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/posts/"
+      href="https://geraldohomero.github.io/pt-br/posts/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/academic/</loc>
+    <loc>https://geraldohomero.github.io/pt-br/academic/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/academic/"
+      href="https://geraldohomero.github.io/academic/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/academic/"
+      href="https://geraldohomero.github.io/pt-br/academic/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/projects/</loc>
+    <loc>https://geraldohomero.github.io/pt-br/projects/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/projects/"
+      href="https://geraldohomero.github.io/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/projects/"
+      href="https://geraldohomero.github.io/pt-br/projects/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/about/</loc>
+    <loc>https://geraldohomero.github.io/pt-br/about/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/about/"
+      href="https://geraldohomero.github.io/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/about/"
+      href="https://geraldohomero.github.io/pt-br/about/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/posts/1714494379888-best-foss/</loc>
+    <loc>https://geraldohomero.github.io/pt-br/posts/1714494379888-best-foss/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/1714494379888-best-foss/"
+      href="https://geraldohomero.github.io/posts/1714494379888-best-foss/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/posts/1714494379888-best-foss/"
+      href="https://geraldohomero.github.io/pt-br/posts/1714494379888-best-foss/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/posts/1714494392851-zotero-libreoffice/</loc>
+    <loc>https://geraldohomero.github.io/pt-br/posts/1714494392851-zotero-libreoffice/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/1714494392851-zotero-libreoffice/"
+      href="https://geraldohomero.github.io/posts/1714494392851-zotero-libreoffice/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/posts/1714494392851-zotero-libreoffice/"
+      href="https://geraldohomero.github.io/pt-br/posts/1714494392851-zotero-libreoffice/"
     />
   </url>
 </urlset>
