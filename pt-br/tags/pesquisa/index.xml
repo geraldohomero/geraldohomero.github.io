@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pesquisa on Geraldo Homero &gt; _</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/pesquisa/</link>
+    <link>http://localhost:1313/pt-br/tags/pesquisa/</link>
     <description>Recent content in Pesquisa on Geraldo Homero &gt; _</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/pesquisa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/pesquisa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pesquisa</title>
-      <link>https://geraldohomero.github.io/pt-br/academic/</link>
+      <link>http://localhost:1313/pt-br/academic/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/academic/</guid>
+      <guid>http://localhost:1313/pt-br/academic/</guid>
       <description>ORCID Lattes ResearchGate Web of Science Google Scholar Dissertação (Mestrado/UFJF) # (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)</description>
       
     </item>

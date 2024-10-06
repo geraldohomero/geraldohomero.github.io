@@ -2,168 +2,168 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Geraldo Homero &gt; _</title>
-    <link>https://geraldohomero.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Geraldo Homero &gt; _</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://geraldohomero.github.io/tags/about/</link>
+      <link>http://localhost:1313/tags/about/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/about/</guid>
+      <guid>http://localhost:1313/tags/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://geraldohomero.github.io/tags/academic/</link>
+      <link>http://localhost:1313/tags/academic/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/academic/</guid>
+      <guid>http://localhost:1313/tags/academic/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://geraldohomero.github.io/tags/projects/</link>
+      <link>http://localhost:1313/tags/projects/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/projects/</guid>
+      <guid>http://localhost:1313/tags/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Study</title>
-      <link>https://geraldohomero.github.io/tags/study/</link>
+      <link>http://localhost:1313/tags/study/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/study/</guid>
+      <guid>http://localhost:1313/tags/study/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://geraldohomero.github.io/tags/tech/</link>
+      <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/tech/</guid>
+      <guid>http://localhost:1313/tags/tech/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Alternatives</title>
-      <link>https://geraldohomero.github.io/tags/alternatives/</link>
+      <link>http://localhost:1313/tags/alternatives/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/alternatives/</guid>
+      <guid>http://localhost:1313/tags/alternatives/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Foss</title>
-      <link>https://geraldohomero.github.io/tags/foss/</link>
+      <link>http://localhost:1313/tags/foss/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/foss/</guid>
+      <guid>http://localhost:1313/tags/foss/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Libre</title>
-      <link>https://geraldohomero.github.io/tags/libre/</link>
+      <link>http://localhost:1313/tags/libre/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/libre/</guid>
+      <guid>http://localhost:1313/tags/libre/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>https://geraldohomero.github.io/tags/privacy/</link>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://geraldohomero.github.io/tags/security/</link>
+      <link>http://localhost:1313/tags/security/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/security/</guid>
+      <guid>http://localhost:1313/tags/security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Libreoffice</title>
-      <link>https://geraldohomero.github.io/tags/libreoffice/</link>
+      <link>http://localhost:1313/tags/libreoffice/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/libreoffice/</guid>
+      <guid>http://localhost:1313/tags/libreoffice/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://geraldohomero.github.io/tags/linux/</link>
+      <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Plugin</title>
-      <link>https://geraldohomero.github.io/tags/plugin/</link>
+      <link>http://localhost:1313/tags/plugin/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/plugin/</guid>
+      <guid>http://localhost:1313/tags/plugin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Troubleshooting</title>
-      <link>https://geraldohomero.github.io/tags/troubleshooting/</link>
+      <link>http://localhost:1313/tags/troubleshooting/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/troubleshooting/</guid>
+      <guid>http://localhost:1313/tags/troubleshooting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>https://geraldohomero.github.io/tags/ubuntu/</link>
+      <link>http://localhost:1313/tags/ubuntu/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/ubuntu/</guid>
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Zotero</title>
-      <link>https://geraldohomero.github.io/tags/zotero/</link>
+      <link>http://localhost:1313/tags/zotero/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/tags/zotero/</guid>
+      <guid>http://localhost:1313/tags/zotero/</guid>
       <description></description>
       
     </item>

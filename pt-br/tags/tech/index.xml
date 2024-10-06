@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Geraldo Homero &gt; _</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/tech/</link>
+    <link>http://localhost:1313/pt-br/tags/tech/</link>
     <description>Recent content in Tech on Geraldo Homero &gt; _</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projetos</title>
-      <link>https://geraldohomero.github.io/pt-br/projects/</link>
+      <link>http://localhost:1313/pt-br/projects/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/projects/</guid>
+      <guid>http://localhost:1313/pt-br/projects/</guid>
       <description>PUC Minas # São projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas na PUC Minas.</description>
       
     </item>
