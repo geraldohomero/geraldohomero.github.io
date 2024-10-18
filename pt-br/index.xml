@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pesquisa</title>
-      <link>http://localhost:1313/pt-br/academic/</link>
+      <link>http://localhost:1313/pt-br/research/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/academic/</guid>
+      <guid>http://localhost:1313/pt-br/research/</guid>
       <description>ORCID Lattes ResearchGate Web of Science Google Scholar Dissertação (Mestrado/UFJF) # (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)</description>
       
     </item>
@@ -24,7 +24,7 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/projects/</guid>
-      <description>PUC Minas # São projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas na PUC Minas.</description>
+      <description>Projetos pessoais # geraldohomero/best-foss-alternatives List of the best Free and Open Source Software alternatives null 10 1 geraldohomero/post-install-pop-os Post-installation script for the Pop!</description>
       
     </item>
     

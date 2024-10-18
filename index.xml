@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -19,22 +19,22 @@
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>http://localhost:1313/academic/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/academic/</guid>
-      <description>ORCID Lattes ResearchGate Web of Science Google Scholar Dissertation (Master&amp;rsquo;s/UFJF) # (De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the &amp;ldquo;new right&amp;rdquo; on YouTube (2013-2018)</description>
-      
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/</guid>
-      <description>PUC Minas # These are projects developed during the Systems Analysis and Development course at PUC Minas.</description>
+      <description>Personal Projects # geraldohomero/best-foss-alternatives List of the best Free and Open Source Software alternatives null 10 1 geraldohomero/post-install-pop-os Post-installation script for the Pop!</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/</guid>
+      <description>ORCID Lattes ResearchGate Web of Science Google Scholar Dissertation (Master&amp;rsquo;s/UFJF) # (De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the &amp;ldquo;new right&amp;rdquo; on YouTube (2013-2018)</description>
       
     </item>
     

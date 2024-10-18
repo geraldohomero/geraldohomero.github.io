@@ -51,22 +51,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/academic/</loc>
-    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/academic/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/academic/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -80,6 +64,22 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/projects/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/research/"
     />
   </url>
   <url>

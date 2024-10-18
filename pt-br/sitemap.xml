@@ -35,19 +35,19 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/academic/</loc>
+    <loc>http://localhost:1313/pt-br/research/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/academic/"
+      href="http://localhost:1313/research/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/academic/"
+      href="http://localhost:1313/pt-br/research/"
     />
   </url>
   <url>
