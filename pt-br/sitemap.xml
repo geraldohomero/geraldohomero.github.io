@@ -7,6 +7,16 @@
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/1732280795786-post-install-pop-os/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/posts/1732280795786-post-install-pop-os/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/pt-br/</loc>
