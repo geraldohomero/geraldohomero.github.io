@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatizando a Pós-Instalação no Pop!_OS com Scripts Personalizados</title>
+      <link>http://localhost:1313/pt-br/posts/1732280795786-post-install-pop-os/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/posts/1732280795786-post-install-pop-os/</guid>
+      <description>Configurar um novo sistema operacional pode ser uma tarefa tediosa, especialmente quando se trata de instalar softwares essenciais, configurar o ambiente e configurar aliases para comandos usados com frequência.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732280795786-post-install-pop-os/featured.png" />
+    </item>
+    
     <item>
       <title>Melhores alternativas de software livre e de código aberto (nem todos) para foco em privacidade e segurança</title>
       <link>http://localhost:1313/pt-br/posts/1714494379888-best-foss/</link>
