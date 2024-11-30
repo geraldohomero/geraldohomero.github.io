@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Geraldo Homero &gt; _</title>
+    <title>Software on geraldo@pop-os:~$ |</title>
     <link>http://localhost:1313/tags/software/</link>
-    <description>Recent content in Software on Geraldo Homero &gt; _</description>
+    <description>Recent content in Software on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Research</title>
-      <link>http://localhost:1313/research/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <title>PUC Minas | Mei a Mei</title>
+      <link>http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research/</guid>
-      <description>ORCID Lattes ResearchGate Web of Science Google Scholar Dissertation (Master&amp;rsquo;s/UFJF) # (De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the &amp;ldquo;new right&amp;rdquo; on YouTube (2013-2018)</description>
-      
+      <guid>http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <description>A mobile app and web system designed to assist entrepreneurs under the MEI tax regime in managing their revenue and staying within the legal limits.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
   </channel>

@@ -7,15 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automating Post-Installation Setup on Pop!_OS with Custom Scripts</title>
-      <link>http://localhost:1313/pt-br/posts/1732280795786-post-install-pop-os/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <title>Processos Seletivos</title>
+      <link>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/1732280795786-post-install-pop-os/</guid>
-      <description>Setting up a new operating system can be a tedious task, especially when it comes to installing essential software, configuring the environment, and setting up aliases for frequently used commands.</description>
+      <guid>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</guid>
+      <description>Este projeto analisa o processo de admissão para o ano acadêmico de 2024-2025 em dois programas de doutorado.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
+    </item>
+    
+    <item>
+      <title>Texto em Voz</title>
+      <link>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
+      <guid>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
+      <description>Este projeto é uma aplicação web que converte texto em fala usando a API ElevenLabs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | CalcFlex</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
+      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
   </channel>

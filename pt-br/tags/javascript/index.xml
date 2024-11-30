@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>javascript on Geraldo Homero &gt;_</title>
-    <link>https://example.org/pt-br/tags/javascript/</link>
-    <description>Recent content in javascript on Geraldo Homero &gt;_</description>
+    <title>JavaScript on geraldo@pop-os:~$ |</title>
+    <link>http://localhost:1313/pt-br/tags/javascript/</link>
+    <description>Recent content in JavaScript on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/pt-br/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reacting - Reajamento - Reação - Reagiabilidade</title>
-      <link>https://example.org/pt-br/posts/1714437336565-reacting/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <title>PUC Minas | Mei a Mei</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/pt-br/posts/1714437336565-reacting/</guid>
-      <description>Minha jornada com React.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/pt-br/posts/1714437336565-reacting/featured.jpg" />
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <description>Um aplicativo móvel e sistema web projetado para auxiliar empreendedores sob o regime tributário MEI na gestão de suas receitas e na permanência dentro dos limites legais.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | CalcFlex</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
+      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | TaskBook</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</guid>
+      <description>Um aplicativo para tarefas predefinidas agrupadas por projeto, projetado para ser usado por gerentes e funcionários para gerar relatórios sobre o tempo gasto em cada tarefa.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | Pubs e Restaurantes</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <description>O principal objetivo deste projeto é desenvolver um menu digital e um sistema de autoatendimento que simplifique as operações diárias para empresas do setor de bares e restaurantes, ao mesmo tempo que melhore o atendimento ao cliente.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
   </channel>

@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geraldo Homero &gt; _</title>
+    <title>geraldo@pop-os:~$ |</title>
     <link>http://localhost:1313/pt-br/</link>
-    <description>Recent content on Geraldo Homero &gt; _</description>
+    <description>Recent content on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automatizando a Pós-Instalação no Pop!_OS com Scripts Personalizados</title>
-      <link>http://localhost:1313/pt-br/posts/1732280795786-post-install-pop-os/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <title>Processos Seletivos</title>
+      <link>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/1732280795786-post-install-pop-os/</guid>
-      <description>Configurar um novo sistema operacional pode ser uma tarefa tediosa, especialmente quando se trata de instalar softwares essenciais, configurar o ambiente e configurar aliases para comandos usados com frequência.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732280795786-post-install-pop-os/featured.png" />
+      <guid>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</guid>
+      <description>Este projeto analisa o processo de admissão para o ano acadêmico de 2024-2025 em dois programas de doutorado.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | Mei a Mei</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <description>Um aplicativo móvel e sistema web projetado para auxiliar empreendedores sob o regime tributário MEI na gestão de suas receitas e na permanência dentro dos limites legais.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+    </item>
+    
+    <item>
+      <title>Texto em Voz</title>
+      <link>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
+      <description>Este projeto é uma aplicação web que converte texto em fala usando a API ElevenLabs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
     </item>
     
     <item>
@@ -30,10 +50,10 @@
     
     <item>
       <title>Projetos</title>
-      <link>http://localhost:1313/pt-br/projects/</link>
+      <link>http://localhost:1313/pt-br/projects-temp/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/projects/</guid>
+      <guid>http://localhost:1313/pt-br/projects-temp/</guid>
       <description>Projetos pessoais # geraldohomero/best-foss-alternatives List of the best Free and Open Source Software alternatives null 10 1 geraldohomero/post-install-pop-os Post-installation script for the Pop!</description>
       
     </item>
@@ -44,28 +64,78 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/about/</guid>
-      <description>Sempre fui muito curioso sobre tecnologia e ao longo dos anos meu interesse se transformou em paixão.</description>
+      <description>A tecnologia sempre me fascinou, evoluindo de um interesse casual para uma paixão ao longo da vida.</description>
       
+    </item>
+    
+    <item>
+      <title>PUC Minas | CalcFlex</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
+      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | Desconto para Estudantes</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</guid>
+      <description>Simplifique e encurte a conexão entre estudantes e descontos/ofertas fornecidos a eles por empresas de diversos setores.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | TaskBook</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</guid>
+      <description>Um aplicativo para tarefas predefinidas agrupadas por projeto, projetado para ser usado por gerentes e funcionários para gerar relatórios sobre o tempo gasto em cada tarefa.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
+    </item>
+    
+    <item>
+      <title>Automatizando a Pós-Instalação no Pop!_OS com Scripts Personalizados</title>
+      <link>http://localhost:1313/pt-br/posts/1732885121982-post-instal-pop-os/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/posts/1732885121982-post-instal-pop-os/</guid>
+      <description>Configurar um novo sistema operacional pode ser uma tarefa tediosa, especialmente quando se trata de instalar softwares essenciais, configurar o ambiente e configurar aliases para comandos usados com frequência.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732885121982-post-instal-pop-os/featured.png" />
     </item>
     
     <item>
       <title>Melhores alternativas de software livre e de código aberto (nem todos) para foco em privacidade e segurança</title>
-      <link>http://localhost:1313/pt-br/posts/1714494379888-best-foss/</link>
+      <link>http://localhost:1313/pt-br/posts/1732884870326-best-foss-alternatives/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/1714494379888-best-foss/</guid>
+      <guid>http://localhost:1313/pt-br/posts/1732884870326-best-foss-alternatives/</guid>
       <description>Esta é uma lista dos melhores softwares livres e de código aberto para segurança e privacidade.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1714494379888-best-foss/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732884870326-best-foss-alternatives/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | Pubs e Restaurantes</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <description>O principal objetivo deste projeto é desenvolver um menu digital e um sistema de autoatendimento que simplifique as operações diárias para empresas do setor de bares e restaurantes, ao mesmo tempo que melhore o atendimento ao cliente.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
     <item>
       <title>Integração Zotero &#43; LibreOffice (Linux/Ubuntu)</title>
-      <link>http://localhost:1313/pt-br/posts/1714494392851-zotero-libreoffice/</link>
+      <link>http://localhost:1313/pt-br/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/1714494392851-zotero-libreoffice/</guid>
-      <description>Zotero + LibreOffice (distribuições baseadas em Linux/Ubuntu) - Créditos para: Kameid</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1714494392851-zotero-libreoffice/feature.jpg" />
+      <guid>http://localhost:1313/pt-br/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</guid>
+      <description>Tentando resolver o problema em que o plugin Zotero não funciona corretamente no LibreOffice Writer do Linux:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/feature.jpg" />
     </item>
     
   </channel>

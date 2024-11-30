@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on geraldo@pop-os:~$ |</title>
+    <link>http://localhost:1313/pt-br/tags/setup/</link>
+    <description>Recent content in Setup on geraldo@pop-os:~$ |</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Geraldo Homero</copyright>
+    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatizando a Pós-Instalação no Pop!_OS com Scripts Personalizados</title>
+      <link>http://localhost:1313/pt-br/posts/1732885121982-post-instal-pop-os/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/posts/1732885121982-post-instal-pop-os/</guid>
+      <description>Configurar um novo sistema operacional pode ser uma tarefa tediosa, especialmente quando se trata de instalar softwares essenciais, configurar o ambiente e configurar aliases para comandos usados com frequência.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732885121982-post-instal-pop-os/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Foss on Geraldo Homero &gt; _</title>
+    <title>Foss on geraldo@pop-os:~$ |</title>
     <link>http://localhost:1313/tags/foss/</link>
-    <description>Recent content in Foss on Geraldo Homero &gt; _</description>
+    <description>Recent content in Foss on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
     <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/foss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Free and Open Source Alternatives (not all) for Privacy and Security</title>
-      <link>http://localhost:1313/posts/1714494379888-best-foss/</link>
+      <link>http://localhost:1313/posts/1732884870326-best-foss-alternatives/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1714494379888-best-foss/</guid>
+      <guid>http://localhost:1313/posts/1732884870326-best-foss-alternatives/</guid>
       <description>This is a list of the best free and open source software alternatives for security and privacy.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1714494379888-best-foss/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732884870326-best-foss-alternatives/featured.png" />
     </item>
     
     <item>
       <title>Zotero &#43; LibreOffice Integration (Linux/Ubuntu)</title>
-      <link>http://localhost:1313/posts/1714494392851-zotero-libreoffice/</link>
+      <link>http://localhost:1313/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1714494392851-zotero-libreoffice/</guid>
-      <description>Zotero + LibreOffice (Linux/Ubuntu based distros) - Credits to Kameid</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1714494392851-zotero-libreoffice/feature.jpg" />
+      <guid>http://localhost:1313/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</guid>
+      <description>Trying to solve the problem where the Zotero plugin doesn&amp;rsquo;t work properly in the Linux LibreOffice Writer:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/feature.jpg" />
     </item>
     
   </channel>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap on geraldo@pop-os:~$ |</title>
+    <link>http://localhost:1313/pt-br/tags/bootstrap/</link>
+    <description>Recent content in Bootstrap on geraldo@pop-os:~$ |</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Geraldo Homero</copyright>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PUC Minas | Desconto para Estudantes</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</guid>
+      <description>Simplifique e encurte a conexão entre estudantes e descontos/ofertas fornecidos a eles por empresas de diversos setores.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
