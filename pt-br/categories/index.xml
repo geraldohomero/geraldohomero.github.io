@@ -8,5 +8,6 @@
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
     <atom:link href="http://localhost:1313/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
