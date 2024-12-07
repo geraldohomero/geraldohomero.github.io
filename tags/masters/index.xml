@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masters on geraldo@pop-os:~$ |</title>
+    <link>http://localhost:1313/tags/masters/</link>
+    <description>Recent content in Masters on geraldo@pop-os:~$ |</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Geraldo Homero</copyright>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/masters/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Master&#39;s Thesis Database</title>
+      <link>http://localhost:1313/research-projects/1733588216310-masters-thesis/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research-projects/1733588216310-masters-thesis/</guid>
+      <description>Title: (De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the &amp;ldquo;new right&amp;rdquo; on YouTube (2013-2018)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

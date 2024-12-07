@@ -7,25 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Admissions Process</title>
-      <link>http://localhost:1313/personal-projects/1732969205483-admissions-process/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/personal-projects/1732969205483-admissions-process/</guid>
-      <description>This project analyses the admissions process for the 2024-2025 academic year in two PhD programs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
-    </item>
+    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Text to Speech</title>
-      <link>http://localhost:1313/personal-projects/1732884306827-text-to-speech/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <title>post install pop os</title>
+      <link>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/personal-projects/1732884306827-text-to-speech/</guid>
-      <description>This project is a web application that converts text to speech using the ElevenLabs API.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
+      <guid>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
   </channel>

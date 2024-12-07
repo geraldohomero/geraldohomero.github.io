@@ -70,6 +70,16 @@
     </item>
     
     <item>
+      <title>Post Install Pop!_OS </title>
+      <link>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <description>Post Install Pop!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+    </item>
+    
+    <item>
       <title> PUC Minas | Student Discount</title>
       <link>http://localhost:1313/undergraduate-projects/1732840855632-student-discount/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
@@ -117,6 +127,16 @@
       <guid>http://localhost:1313/posts/1732884870326-best-foss-alternatives/</guid>
       <description>This is a list of the best free and open source software alternatives for security and privacy.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732884870326-best-foss-alternatives/featured.png" />
+    </item>
+    
+    <item>
+      <title>Master&#39;s Thesis Database</title>
+      <link>http://localhost:1313/research-projects/1733588216310-masters-thesis/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research-projects/1733588216310-masters-thesis/</guid>
+      <description>Title: (De)constructing History on the Internet: Views on the Brazilian Military Dictatorship in channels of the &amp;ldquo;new right&amp;rdquo; on YouTube (2013-2018)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
     <item>

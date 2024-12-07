@@ -200,6 +200,36 @@
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/pt-br/tags/linux/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pop-Os</title>
+      <link>http://localhost:1313/pt-br/tags/pop-os/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/pop-os/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post Install</title>
+      <link>http://localhost:1313/pt-br/tags/post-install/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/post-install/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>ASP.NET Core</title>
       <link>http://localhost:1313/pt-br/tags/asp.net-core/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
@@ -330,26 +360,6 @@
     </item>
     
     <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/pt-br/tags/linux/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pop-Os</title>
-      <link>http://localhost:1313/pt-br/tags/pop-os/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/pop-os/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Scripting</title>
       <link>http://localhost:1313/pt-br/tags/scripting/</link>
       <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
@@ -415,6 +425,46 @@
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dissertação</title>
+      <link>http://localhost:1313/pt-br/tags/disserta%C3%A7%C3%A3o/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/disserta%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mestrado</title>
+      <link>http://localhost:1313/pt-br/tags/mestrado/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/mestrado/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pesquisa</title>
+      <link>http://localhost:1313/pt-br/tags/pesquisa/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/pesquisa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projeto</title>
+      <link>http://localhost:1313/pt-br/tags/projeto/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/projeto/</guid>
       <description></description>
       
     </item>

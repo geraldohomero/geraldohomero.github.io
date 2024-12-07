@@ -147,6 +147,22 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/undergraduate-projects/1732840855632-student-discount/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -240,6 +256,38 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/posts/1732884870326-best-foss-alternatives/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/research-projects/1733588216310-masters-thesis/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/research-projects/1733588216310-masters-thesis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/research-projects/1733588216310-masters-thesis/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/research-projects/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/research-projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/research-projects/"
     />
   </url>
   <url>
