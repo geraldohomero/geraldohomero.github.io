@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TypeScript on geraldo@pop-os:~$ |</title>
-    <link>http://localhost:1313/pt-br/tags/typescript/</link>
+    <link>https://geraldohomero.github.io/pt-br/tags/typescript/</link>
     <description>Recent content in TypeScript on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Texto em Voz</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</link>
+      <link>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
       <description>Este projeto é uma aplicação web que converte texto em fala usando a API ElevenLabs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732884306827-text-to-speech/featured.png" />
     </item>
     
   </channel>

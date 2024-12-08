@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript on geraldo@pop-os:~$ |</title>
-    <link>http://localhost:1313/tags/javascript/</link>
+    <link>https://geraldohomero.github.io/tags/javascript/</link>
     <description>Recent content in JavaScript on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Mei a Mei</title>
-      <link>http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <link>https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <guid>https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/</guid>
       <description>A mobile app and web system designed to assist entrepreneurs under the MEI tax regime in managing their revenue and staying within the legal limits.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | CalcFlex</title>
-      <link>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</link>
+      <link>https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</guid>
+      <guid>https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/</guid>
       <description>A calculator to determine which option is more cost-effective between gasoline and ethanol.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | TaskBook</title>
-      <link>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</link>
+      <link>https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</guid>
+      <guid>https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/</guid>
       <description>An application for predefined tasks grouped by project, designed to be used by managers and employees to generate reports on the time spent on each task.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Pubs and Restaurants</title>
-      <link>http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <link>https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <guid>https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
       <description>The main objective of this project is to develop a digital menu and self-service system that simplifies daily operations for businesses in the bar and restaurant sector while enhancing customer service.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
   </channel>

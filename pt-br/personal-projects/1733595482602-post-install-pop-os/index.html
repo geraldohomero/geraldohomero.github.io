@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="false"><head>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="pt-br" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="linux, pop os, post install, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/" />
+  <link rel="canonical" href="https://geraldohomero.github.io/pt-br/personal-projects/1733595482602-post-install-pop-os/" />
   
   
   
@@ -73,7 +73,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/">
+  <meta property="og:url" content="https://geraldohomero.github.io/pt-br/personal-projects/1733595482602-post-install-pop-os/">
   <meta property="og:site_name" content="geraldo@pop-os:~$ |">
   <meta property="og:title" content="Pós instalação Pop!_OS">
   <meta property="og:description" content="a description">
@@ -85,11 +85,11 @@
     <meta property="article:tag" content="Linux">
     <meta property="article:tag" content="Pop-Os">
     <meta property="article:tag" content="Post Install">
-    <meta property="og:image" content="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png">
+    <meta property="og:image" content="https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/featured.png">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png">
+  <meta name="twitter:image" content="https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/featured.png">
   <meta name="twitter:title" content="Pós instalação Pop!_OS">
   <meta name="twitter:description" content="a description">
 
@@ -102,9 +102,9 @@
     "name": "Pós instalação Pop!_OS",
     "headline": "Pós instalação Pop!_OS",
     "description": "a description",
-    "abstract": "Pós-Instalação do Pop!",
+    "abstract": "PIPOS",
     "inLanguage": "pt-br",
-    "url" : "http:\/\/localhost:1313\/pt-br\/personal-projects\/1733595482602-post-install-pop-os\/",
+    "url" : "https:\/\/geraldohomero.github.io\/pt-br\/personal-projects\/1733595482602-post-install-pop-os\/",
     "author" : {
       "@type": "Person",
       "name": "Geraldo Homero"
@@ -118,7 +118,7 @@
     "keywords": ["linux","pop os","post install"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "507"
+    "wordCount": "492"
   }]
   </script>
 
@@ -1003,20 +1003,9 @@
         <div class="article-content max-w-prose mb-20">
           
 
-
-
-<h1 class="relative group">Pós-Instalação do Pop!_OS (22.04) 
-    <div id="p%C3%B3s-instala%C3%A7%C3%A3o-do-pop_os-2204" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#p%C3%B3s-instala%C3%A7%C3%A3o-do-pop_os-2204" aria-label="Âncora">#</a>
-    </span>        
-    
-</h1>
 <blockquote>
-<p>PIPOS <a href="https://github.com/geraldohomero/post-install-pop-os/issues/44" target="_blank">24.04 Em Breve</a></p>
+<p>PIPOS</p>
+<p><a href="https://github.com/geraldohomero/post-install-pop-os/issues/44" target="_blank">24.04 Em Breve</a></p>
 </blockquote>
 <p>Script de pós-instalação para a distribuição <code>Pop!_OS</code>, baseado no Ubuntu. O script contém verificação de internet e se o <code>wget</code> está instalado no dispositivo. Além disso, instala pacotes <code>apt</code>, <code>flatpak</code> e <code>deb</code>; atualiza repositórios e realiza limpeza do sistema.</p>
 <hr>
@@ -1041,10 +1030,8 @@
 </h2>
 <p>Baixe toda a pasta &ldquo;post-install-pop-os&rdquo; contendo os arquivos de script para o local de sua preferência. Você pode clonar (para a pasta <strong>Downloads</strong>) o repositório usando Git ou baixá-lo como arquivo ZIP na página do repositório.</p>
 <p>No terminal, execute:</p>
-<p>bash</p>
-<p>Copy</p>
-<p><code>git clone https://github.com/geraldohomero/post-install-pop-os.git $HOME/Downloads</code></p>
-
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git clone https://github.com/geraldohomero/post-install-pop-os.git <span class="nv">$HOME</span>/Downloads
+</span></span></code></pre></div>
 
 <h2 class="relative group">2. Torne os Scripts Executáveis 
     <div id="2-torne-os-scripts-execut%C3%A1veis" class="anchor"></div>
@@ -1056,10 +1043,8 @@
     </span>        
     
 </h2>
-<p>bash</p>
-<p>Copy</p>
-<p><code>chmod +x $HOME/Downloads/post-install-pop-os/run.sh</code></p>
-
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">chmod +x <span class="nv">$HOME</span>/Downloads/post-install-pop-os/run.sh
+</span></span></code></pre></div>
 
 <h2 class="relative group">3. Execute o Script de Configuração Pós-Instalação 
     <div id="3-execute-o-script-de-configura%C3%A7%C3%A3o-p%C3%B3s-instala%C3%A7%C3%A3o" class="anchor"></div>
@@ -1072,14 +1057,10 @@
     
 </h2>
 <p>Execute o script <code>run.sh</code> para iniciar o processo de pós-instalação. O script executará automaticamente e tornará executáveis os scripts <code>post-install.sh</code> e <code>alias.sh</code>, instalando pacotes necessários e configurando aliases personalizados.</p>
-<p>bash</p>
-<p>Copy</p>
-<p><code>$HOME/Downloads/post-install-pop-os/run.sh</code></p>
-<p><strong>Ou simplesmente copie e cole o seguinte comando no terminal:</strong></p>
-<p>bash</p>
-<p>Copy</p>
-<p><code>git clone https://github.com/geraldohomero/post-install-pop-os.git $HOME/Downloads/post-install-pop-os chmod +x $HOME/Downloads/post-install-pop-os/run.sh $HOME/Downloads/post-install-pop-os/run.sh</code></p>
-
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nv">$HOME</span>/Downloads/post-install-pop-os/run.sh
+</span></span></code></pre></div><p><strong>Ou simplesmente copie e cole o seguinte comando no terminal:</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git clone https://github.com/geraldohomero/post-install-pop-os.git <span class="nv">$HOME</span>/Downloads/post-install-pop-os chmod +x <span class="nv">$HOME</span>/Downloads/post-install-pop-os/run.sh <span class="nv">$HOME</span>/Downloads/post-install-pop-os/run.sh
+</span></span></code></pre></div>
 
 <h2 class="relative group">4. Siga as Instruções na Tela 
     <div id="4-siga-as-instru%C3%A7%C3%B5es-na-tela" class="anchor"></div>
@@ -1118,10 +1099,13 @@
     
 </h2>
 <p>Você pode modificar ou adicionar aliases personalizados no script <code>src/alias.sh</code> para adequar-se ao seu fluxo de trabalho. Edite o array CUSTOM_ALIASES com os aliases desejados e execute o script <code>alias.sh</code> novamente para atualizar seu arquivo .bash_aliases. O mesmo princípio é válido para <code>src/post-install.sh</code> e os arrays de <code>flatpak</code> e <code>apt</code>.</p>
-<p>bash</p>
-<p>Copy</p>
-<p><code>CUSTOM_ALIASES=(     'alias &lt;nomeDoAlias&gt;=&quot;&lt;o que ele faz&gt;&quot;'    .    .    . )</code></p>
-
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nv">CUSTOM_ALIASES</span><span class="o">=(</span>
+</span></span><span class="line"><span class="cl">    <span class="s1">&#39;alias &lt;aliasName&gt;=&#34;&lt;o que ele faz&gt;&#34;&#39;</span>
+</span></span><span class="line"><span class="cl">    .
+</span></span><span class="line"><span class="cl">    .
+</span></span><span class="line"><span class="cl">    .
+</span></span><span class="line"><span class="cl"><span class="o">)</span>
+</span></span></code></pre></div>
 
 <h2 class="relative group">7. Scripts Adicionais 
     <div id="7-scripts-adicionais" class="anchor"></div>
@@ -1256,7 +1240,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:1313/pt-br/"
+  data-url="https://geraldohomero.github.io/pt-br/"
   style="z-index:500"
 >
   <div
