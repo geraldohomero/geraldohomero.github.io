@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vite on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/tags/vite/</link>
+    <link>http://localhost:1313/tags/vite/</link>
     <description>Recent content in Vite on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/vite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vite/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Admissions Process</title>
-      <link>https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/</link>
+      <link>http://localhost:1313/personal-projects/1732969205483-admissions-process/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/</guid>
+      <guid>http://localhost:1313/personal-projects/1732969205483-admissions-process/</guid>
       <description>This project analyses the admissions process for the 2024-2025 academic year in two PhD programs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
     </item>
     
   </channel>

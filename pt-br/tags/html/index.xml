@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/html/</link>
+    <link>http://localhost:1313/pt-br/tags/html/</link>
     <description>Recent content in HTML on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Desconto para Estudantes</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840855632-student-discount/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840855632-student-discount/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</guid>
       <description>Simplifique e encurte a conexão entre estudantes e descontos/ofertas fornecidos a eles por empresas de diversos setores.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840855632-student-discount/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Pubs e Restaurantes</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
       <description>O principal objetivo deste projeto é desenvolver um menu digital e um sistema de autoatendimento que simplifique as operações diárias para empresas do setor de bares e restaurantes, ao mesmo tempo que melhore o atendimento ao cliente.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
   </channel>

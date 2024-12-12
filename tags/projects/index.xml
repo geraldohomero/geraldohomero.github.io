@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/tags/projects/</link>
+    <link>http://localhost:1313/tags/projects/</link>
     <description>Recent content in Projects on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
-      <link>https://geraldohomero.github.io/projects-temp/</link>
+      <link>http://localhost:1313/projects-temp/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/projects-temp/</guid>
+      <guid>http://localhost:1313/projects-temp/</guid>
       <description>Personal Projects # geraldohomero/best-foss-alternatives List of the best Free and Open Source Software alternatives null 10 1 geraldohomero/post-install-pop-os Post-installation script for the Pop!</description>
       
     </item>

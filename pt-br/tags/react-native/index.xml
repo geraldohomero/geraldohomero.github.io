@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React Native on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/react-native/</link>
+    <link>http://localhost:1313/pt-br/tags/react-native/</link>
     <description>Recent content in React Native on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Mei a Mei</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
       <description>Um aplicativo móvel e sistema web projetado para auxiliar empreendedores sob o regime tributário MEI na gestão de suas receitas e na permanência dentro dos limites legais.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | CalcFlex</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
       <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | TaskBook</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840779263-taskbook/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840779263-taskbook/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</guid>
       <description>Um aplicativo para tarefas predefinidas agrupadas por projeto, projetado para ser usado por gerentes e funcionários para gerar relatórios sobre o tempo gasto em cada tarefa.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
     </item>
     
   </channel>

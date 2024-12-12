@@ -1,41 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag on Geraldo Homero &gt; _</title>
+    <title>Tag on geraldo@pop-os:~$ |</title>
     <link>http://localhost:1313/pt-br/tags/tag/</link>
-    <description>Recent content in Tag on Geraldo Homero &gt; _</description>
+    <description>Recent content in Tag on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/tag/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Processos Seletivos</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</guid>
-      <description>Este projeto analisa o processo de admissão para o ano acadêmico de 2024-2025 em dois programas de doutorado.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
-    </item>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Texto em Voz</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <title>Machine learning for Digital Humanities</title>
+      <link>http://localhost:1313/pt-br/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
-      <description>Este projeto é uma aplicação web que converte texto em fala usando a API ElevenLabs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
-    </item>
-    
-    <item>
-      <title>PUC Minas | CalcFlex</title>
-      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
-      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <guid>http://localhost:1313/pt-br/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
     </item>
     
   </channel>
