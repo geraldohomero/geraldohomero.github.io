@@ -2,61 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Undergraduate Projects on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/</link>
+    <link>http://localhost:1313/pt-br/undergraduate-projects/</link>
     <description>Recent content in Undergraduate Projects on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/undergraduate-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/undergraduate-projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PUC Minas | Mei a Mei</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <title>PUC Minas | Projeto de Extensão Ch&#39;c Modas</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
-      <description>Um aplicativo móvel e sistema web projetado para auxiliar empreendedores sob o regime tributário MEI na gestão de suas receitas e na permanência dentro dos limites legais.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
+      <description>Projeto de Extensão - Projeto Final O projeto desenvolveu um sistema web ERP, focado na gestão de vendas, gestão de estoque e gestão de clientes, para uma loja de roupas femininas localizada em Belo Horizonte, MG.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
     </item>
     
     <item>
-      <title>PUC Minas | CalcFlex</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <title>PUC Minas | Mei a Mei</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
-      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <description>Um aplicativo móvel e sistema web projetado para auxiliar empreendedores sob o regime tributário MEI na gestão de suas receitas e na permanência dentro dos limites legais.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Desconto para Estudantes</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840855632-student-discount/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840855632-student-discount/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</guid>
       <description>Simplifique e encurte a conexão entre estudantes e descontos/ofertas fornecidos a eles por empresas de diversos setores.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840855632-student-discount/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | TaskBook</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840779263-taskbook/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840779263-taskbook/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840779263-taskbook/</guid>
       <description>Um aplicativo para tarefas predefinidas agrupadas por projeto, projetado para ser usado por gerentes e funcionários para gerar relatórios sobre o tempo gasto em cada tarefa.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | CalcFlex</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
+      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Pubs e Restaurantes</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
       <description>O principal objetivo deste projeto é desenvolver um menu digital e um sistema de autoatendimento que simplifique as operações diárias para empresas do setor de bares e restaurantes, ao mesmo tempo que melhore o atendimento ao cliente.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
   </channel>

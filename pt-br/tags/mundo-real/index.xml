@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mundo Real on geraldo@pop-os:~$ |</title>
+    <link>http://localhost:1313/pt-br/tags/mundo-real/</link>
+    <description>Recent content in Mundo Real on geraldo@pop-os:~$ |</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Geraldo Homero</copyright>
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/mundo-real/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PUC Minas | Projeto de Extensão Ch&#39;c Modas</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
+      <description>Projeto de Extensão - Projeto Final O projeto desenvolveu um sistema web ERP, focado na gestão de vendas, gestão de estoque e gestão de clientes, para uma loja de roupas femininas localizada em Belo Horizonte, Minas Gerais, Brasil.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Projects on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/pt-br/personal-projects/</link>
+    <link>http://localhost:1313/pt-br/personal-projects/</link>
     <description>Recent content in Personal Projects on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/personal-projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Processos Seletivos</title>
-      <link>https://geraldohomero.github.io/pt-br/personal-projects/1732969205483-admissions-process/</link>
+      <link>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1732969205483-admissions-process/</guid>
+      <guid>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</guid>
       <description>Este projeto analisa o processo de admissão para o ano acadêmico de 2024-2025 em dois programas de doutorado.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
     </item>
     
     <item>
       <title>Texto em Voz</title>
-      <link>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</link>
+      <link>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
+      <guid>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
       <description>Este projeto é uma aplicação web que converte texto em fala usando a API ElevenLabs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732884306827-text-to-speech/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
     </item>
     
     <item>
       <title>Pós instalação Pop!_OS</title>
-      <link>https://geraldohomero.github.io/pt-br/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description>PIPOS</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
   </channel>
