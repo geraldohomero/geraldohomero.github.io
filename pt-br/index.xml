@@ -10,12 +10,12 @@
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>extension-project-chic-modas</title>
+      <title>PUC Minas | Projeto de Extensão Ch&#39;c Modas</title>
       <link>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
-      <description>an example to get you started</description>
+      <description>Projeto de Extensão - Projeto Final O projeto desenvolveu um sistema web ERP, focado na gestão de vendas, gestão de estoque e gestão de clientes, para uma loja de roupas femininas localizada em Belo Horizonte, MG.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
     </item>
     
@@ -85,7 +85,7 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/about/</guid>
-      <description>A tecnologia sempre me fascinou, evoluindo de um interesse casual para uma paixão ao longo da vida.</description>
+      <description>Minha jornada acadêmica em História, abrangendo tanto os estudos de graduação quanto de mestrado, me levou aos campos transformadores da História Digital e das Humanidades Digitais.</description>
       
     </item>
     
@@ -97,16 +97,6 @@
       <guid>http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description>PIPOS</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
-    </item>
-    
-    <item>
-      <title>PUC Minas | CalcFlex</title>
-      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
-      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>
@@ -137,6 +127,16 @@
       <guid>http://localhost:1313/pt-br/posts/1732885121982-post-instal-pop-os/</guid>
       <description>Configurar um novo sistema operacional pode ser uma tarefa tediosa, especialmente quando se trata de instalar softwares essenciais, configurar o ambiente e configurar aliases para comandos usados com frequência.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732885121982-post-instal-pop-os/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | CalcFlex</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</guid>
+      <description>Uma calculadora para determinar qual opção é mais econômica entre gasolina e etanol.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>

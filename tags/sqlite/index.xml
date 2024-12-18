@@ -10,16 +10,6 @@
     <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PUC Minas | CalcFlex</title>
-      <link>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</guid>
-      <description>A calculator to determine which option is more cost-effective between gasoline and ethanol.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
-    </item>
-    
-    <item>
       <title>PUC Minas | TaskBook</title>
       <link>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
@@ -27,6 +17,16 @@
       <guid>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</guid>
       <description>An application for predefined tasks grouped by project, designed to be used by managers and employees to generate reports on the time spent on each task.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | CalcFlex</title>
+      <link>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</guid>
+      <description>A calculator to determine which option is more cost-effective between gasoline and ethanol.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
   </channel>

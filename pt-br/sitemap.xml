@@ -3,22 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/pt-br/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -32,6 +16,22 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/"
     />
   </url>
   <url>
@@ -211,22 +211,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/pt-br/undergraduate-projects/1732840855632-student-discount/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -288,6 +272,22 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/</loc>
+    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/undergraduate-projects/1732841153119-calcflex/"
     />
   </url>
   <url>

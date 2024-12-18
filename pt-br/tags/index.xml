@@ -10,21 +10,81 @@
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/pt-br/tags/example/</link>
+      <title>Cliente Real</title>
+      <link>http://localhost:1313/pt-br/tags/cliente-real/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/example/</guid>
+      <guid>http://localhost:1313/pt-br/tags/cliente-real/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/pt-br/tags/tag/</link>
+      <title>Colaboração</title>
+      <link>http://localhost:1313/pt-br/tags/colabora%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/tag/</guid>
+      <guid>http://localhost:1313/pt-br/tags/colabora%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Extensão</title>
+      <link>http://localhost:1313/pt-br/tags/extens%C3%A3o/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/extens%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graduação</title>
+      <link>http://localhost:1313/pt-br/tags/gradua%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/gradua%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Indústria</title>
+      <link>http://localhost:1313/pt-br/tags/ind%C3%BAstria/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/ind%C3%BAstria/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mundo Real</title>
+      <link>http://localhost:1313/pt-br/tags/mundo-real/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/mundo-real/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Negócios</title>
+      <link>http://localhost:1313/pt-br/tags/neg%C3%B3cios/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/neg%C3%B3cios/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projeto</title>
+      <link>http://localhost:1313/pt-br/tags/projeto/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/projeto/</guid>
       <description></description>
       
     </item>
@@ -505,16 +565,6 @@
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/tags/pesquisa/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Projeto</title>
-      <link>http://localhost:1313/pt-br/tags/projeto/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/projeto/</guid>
       <description></description>
       
     </item>
