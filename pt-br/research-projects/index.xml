@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Projects on geraldo@pop-os:~$ |</title>
-    <link>http://localhost:1313/pt-br/research-projects/</link>
+    <link>https://geraldohomero.github.io/pt-br/research-projects/</link>
     <description>Recent content in Research Projects on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/research-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/research-projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aprendizado de máquina para as Humanidades Digitais</title>
-      <link>http://localhost:1313/pt-br/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
+      <link>https://geraldohomero.github.io/pt-br/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
       <description>Este é um artigo em andamento sobre aprendizado de máquina para as humanidades digitais.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
     </item>
     
     <item>
       <title>Banco de dados | Dissertação de Mestrado</title>
-      <link>http://localhost:1313/pt-br/research-projects/1733588216310-masters-thesis/</link>
+      <link>https://geraldohomero.github.io/pt-br/research-projects/1733588216310-masters-thesis/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/research-projects/1733588216310-masters-thesis/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/research-projects/1733588216310-masters-thesis/</guid>
       <description>Título: (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
   </channel>
