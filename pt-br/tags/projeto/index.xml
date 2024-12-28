@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projeto on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/projeto/</link>
+    <link>http://localhost:1313/pt-br/tags/projeto/</link>
     <description>Recent content in Projeto on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/projeto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/projeto/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Projeto de Extensão Ch&#39;c Modas</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
       <description>Projeto de Extensão - Projeto Final O projeto desenvolveu um sistema web ERP, focado na gestão de vendas, gestão de estoque e gestão de clientes, para uma loja de roupas femininas localizada em Belo Horizonte, MG.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
     </item>
     
     <item>
       <title>Banco de dados | Dissertação de Mestrado</title>
-      <link>https://geraldohomero.github.io/pt-br/research-projects/1733588216310-masters-thesis/</link>
+      <link>http://localhost:1313/pt-br/research-projects/1733588216310-masters-thesis/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/research-projects/1733588216310-masters-thesis/</guid>
+      <guid>http://localhost:1313/pt-br/research-projects/1733588216310-masters-thesis/</guid>
       <description>Título: (Des)fazendo História na Internet: visões acerca da Ditadura Militar Brasileira em canais da “nova direita” no YouTube (2013-2018)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1733588216310-masters-thesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
   </channel>

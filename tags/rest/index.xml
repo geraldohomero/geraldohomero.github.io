@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>REST on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/tags/rest/</link>
+    <link>http://localhost:1313/tags/rest/</link>
     <description>Recent content in REST on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rest/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | TaskBook</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/</link>
+      <link>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</guid>
       <description>An application for predefined tasks grouped by project, designed to be used by managers and employees to generate reports on the time spent on each task.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | CalcFlex</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/</link>
+      <link>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</guid>
       <description>A calculator to determine which option is more cost-effective between gasoline and ethanol.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
   </channel>

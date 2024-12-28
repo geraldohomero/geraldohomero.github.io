@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projeto Em Destaque on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/projeto-em-destaque/</link>
+    <link>http://localhost:1313/pt-br/tags/projeto-em-destaque/</link>
     <description>Recent content in Projeto Em Destaque on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/projeto-em-destaque/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/projeto-em-destaque/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Mei a Mei</title>
-      <link>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732839230931-mei-a-mei/</guid>
       <description>Projeto Destaque - Segundo Ano Primeiro Semestre de 2024</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
   </channel>

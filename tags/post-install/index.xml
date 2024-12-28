@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post Install on geraldo@pop-os:~$ |</title>
-    <link>https://geraldohomero.github.io/tags/post-install/</link>
+    <link>http://localhost:1313/tags/post-install/</link>
     <description>Recent content in Post Install on geraldo@pop-os:~$ |</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Geraldo Homero</copyright>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/post-install/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/post-install/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Post Install Pop!_OS </title>
-      <link>https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description>Post Install Pop!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
   </channel>
