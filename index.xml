@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Post Install Fedora</title>
+      <link>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</guid>
+      <description>Fedora Post-Installation Script # A comprehensive automation script for setting up a fresh Fedora 41 installation with essential software, configurations, and development tools.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
+    </item>
     
     <item>
       <title>PUC Minas | Extension Project Ch&#39;c Modas</title>
@@ -75,7 +85,7 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects-temp/</guid>
-      <description>Personal Projects # geraldohomero/best-foss-alternatives List of the best Free and Open Source Software alternatives null 24 1 geraldohomero/post-install-pop-os Post-installation script for the Pop!</description>
+      <description>Personal Projects # geraldohomero/best-foss-alternatives List of the best Free and Open Source Software alternatives null 25 2 geraldohomero/post-install-pop-os Post-installation script for the Pop!</description>
       
     </item>
     
