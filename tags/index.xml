@@ -10,21 +10,41 @@
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
+      <title>Fedora</title>
+      <link>http://localhost:1313/tags/fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>http://localhost:1313/tags/fedora/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post Install</title>
+      <link>http://localhost:1313/tags/post-install/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/post-install/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Script</title>
+      <link>http://localhost:1313/tags/script/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/script/</guid>
       <description></description>
       
     </item>
@@ -300,61 +320,11 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/tags/projects/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/projects/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Study</title>
-      <link>http://localhost:1313/tags/study/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/study/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/tags/tech/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/tech/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Pop-Os</title>
       <link>http://localhost:1313/tags/pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/pop-os/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Post Install</title>
-      <link>http://localhost:1313/tags/post-install/</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/post-install/</guid>
       <description></description>
       
     </item>

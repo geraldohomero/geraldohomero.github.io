@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on geraldo@fedora:~$ |</title>
+    <link>http://localhost:1313/pt-br/tags/project/</link>
+    <description>Recent content in Project on geraldo@fedora:~$ |</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2025 Geraldo Homero</copyright>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Personal Projects</title>
+      <link>http://localhost:1313/pt-br/personal-projects/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/personal-projects/</guid>
+      <description>These are some of the projects I have developed in my free time.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

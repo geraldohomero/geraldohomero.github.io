@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/post-install/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/post-install/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Post Install Fedora</title>
+      <link>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</guid>
+      <description>Fedora Post-Installation Script # A comprehensive automation script for setting up a fresh Fedora 41 installation with essential software, configurations, and development tools.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
+    </item>
     
     <item>
       <title>Post Install Pop!_OS </title>

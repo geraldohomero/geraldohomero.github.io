@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fedora</title>
+      <link>http://localhost:1313/pt-br/tags/fedora/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/fedora/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/pt-br/tags/linux/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post Install</title>
+      <link>http://localhost:1313/pt-br/tags/post-install/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/post-install/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Script</title>
+      <link>http://localhost:1313/pt-br/tags/script/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/script/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Cliente Real</title>
@@ -280,61 +320,11 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/pt-br/tags/projects/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/projects/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Study</title>
-      <link>http://localhost:1313/pt-br/tags/study/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/study/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/pt-br/tags/tech/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/tech/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/pt-br/tags/linux/</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Pop-Os</title>
       <link>http://localhost:1313/pt-br/tags/pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/tags/pop-os/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Post Install</title>
-      <link>http://localhost:1313/pt-br/tags/post-install/</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/post-install/</guid>
       <description></description>
       
     </item>
