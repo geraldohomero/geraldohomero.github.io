@@ -120,11 +120,11 @@
     </item>
     
     <item>
-      <title>Projeto</title>
-      <link>http://localhost:1313/pt-br/tags/projeto/</link>
+      <title>Projeto Final</title>
+      <link>http://localhost:1313/pt-br/tags/projeto-final/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/projeto/</guid>
+      <guid>http://localhost:1313/pt-br/tags/projeto-final/</guid>
       <description></description>
       
     </item>
@@ -260,11 +260,11 @@
     </item>
     
     <item>
-      <title>Projeto Em Destaque</title>
-      <link>http://localhost:1313/pt-br/tags/projeto-em-destaque/</link>
+      <title>Projeto Destaque</title>
+      <link>http://localhost:1313/pt-br/tags/projeto-destaque/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/projeto-em-destaque/</guid>
+      <guid>http://localhost:1313/pt-br/tags/projeto-destaque/</guid>
       <description></description>
       
     </item>
@@ -570,11 +570,11 @@
     </item>
     
     <item>
-      <title>Featured Project</title>
-      <link>http://localhost:1313/pt-br/tags/featured-project/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <title>Projeto</title>
+      <link>http://localhost:1313/pt-br/tags/projeto/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/featured-project/</guid>
+      <guid>http://localhost:1313/pt-br/tags/projeto/</guid>
       <description></description>
       
     </item>

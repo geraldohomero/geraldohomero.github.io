@@ -19,5 +19,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
+    <item>
+      <title>PUC Minas | Pubs e Restaurantes</title>
+      <link>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <description>O principal objetivo deste projeto é desenvolver um menu digital e um sistema de autoatendimento que simplifique as operações diárias para empresas do setor de bares e restaurantes, ao mesmo tempo que melhore o atendimento ao cliente.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
+    </item>
+    
   </channel>
 </rss>

@@ -3,22 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/personal-projects/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/personal-projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/personal-projects/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -67,22 +51,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/undergraduate-projects/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/undergraduate-projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/undergraduate-projects/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -96,22 +64,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/research-projects/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/research-projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/research-projects/"
     />
   </url>
   <url>
@@ -320,6 +272,54 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/research-projects/1733588216310-masters-thesis/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/personal-projects/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/research-projects/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/research-projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/research-projects/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/undergraduate-projects/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/undergraduate-projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/undergraduate-projects/"
     />
   </url>
   <url>
