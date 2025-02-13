@@ -19,6 +19,12 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/research-projects/1739118101927-phd-research/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

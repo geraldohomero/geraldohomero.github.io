@@ -7,7 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Critical Internet Studies</title>
+      <link>http://localhost:1313/tags/critical-internet-studies/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/critical-internet-studies/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://localhost:1313/tags/data/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>http://localhost:1313/tags/database/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Humanities</title>
+      <link>http://localhost:1313/tags/digital-humanities/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/digital-humanities/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>http://localhost:1313/tags/phd/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/phd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Fedora</title>
@@ -125,16 +185,6 @@
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/undergraduation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Digital Humanities</title>
-      <link>http://localhost:1313/tags/digital-humanities/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/digital-humanities/</guid>
       <description></description>
       
     </item>
@@ -535,16 +585,6 @@
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/masters/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/research/</guid>
       <description></description>
       
     </item>
