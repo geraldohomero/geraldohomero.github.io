@@ -23,6 +23,16 @@
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/research-projects/1739118101927-phd-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/research-projects/1739118101927-phd-research/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</loc>

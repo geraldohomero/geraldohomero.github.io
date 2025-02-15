@@ -7,7 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Banco De Dados</title>
+      <link>http://localhost:1313/pt-br/tags/banco-de-dados/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/banco-de-dados/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dados</title>
+      <link>http://localhost:1313/pt-br/tags/dados/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/dados/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Doutorado</title>
+      <link>http://localhost:1313/pt-br/tags/doutorado/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/doutorado/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Estudos Críticos Da Internet</title>
+      <link>http://localhost:1313/pt-br/tags/estudos-cr%C3%ADticos-da-internet/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/estudos-cr%C3%ADticos-da-internet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Humanidades Digitais</title>
+      <link>http://localhost:1313/pt-br/tags/humanidades-digitais/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/humanidades-digitais/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pesquisa</title>
+      <link>http://localhost:1313/pt-br/tags/pesquisa/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/tags/pesquisa/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Fedora</title>
@@ -145,16 +205,6 @@
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/tags/artigo-em-andamento/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Humanidades Digitais</title>
-      <link>http://localhost:1313/pt-br/tags/humanidades-digitais/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/humanidades-digitais/</guid>
       <description></description>
       
     </item>
@@ -555,16 +605,6 @@
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/tags/mestrado/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pesquisa</title>
-      <link>http://localhost:1313/pt-br/tags/pesquisa/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/pesquisa/</guid>
       <description></description>
       
     </item>
