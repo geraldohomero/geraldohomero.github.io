@@ -30,8 +30,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.cab026b986e29aca4f86c95149229b5889279f95c6d508a1d918b5b0e2d6b85001fb0383785485ed038354c7f3113e8994b2fb35c502401091b03be6850f9441.css"
-    integrity="sha512-yrAmuYbimspPhslRSSKbWIknn5XG1Qih2Ri1sOLWuFAB&#43;wODeFSF7QODVMfzET6JlLL7NcUCQBCRsDvmhQ&#43;UQQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.ceaaf5358dbc57753275f8728bc8b24cdcfb3f1f616703b1181114d44cd652ab15a713d616886e40c354e07fbb34267379db328d9b0dbaccb663c1d504024187.css"
+    integrity="sha512-zqr1NY28V3Uydfhyi8iyTNz7Px9hZwOxGBEU1EzWUqsVpxPWFohuQMNU4H&#43;7NCZzedsyjZsNusy2Y8HVBAJBhw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -55,7 +55,7 @@
   
   
   
-  <script src="/lib/zoom/zoom.min.37d2094687372da3f7343a221a470f6b8806f7891aa46a5a03966af7f0ebd38b9fe536cb154e6ad28f006d184b294525a7c4054b6bbb4be62d8b453b42db99bd.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S&#43;Yti0U7QtuZvQ=="></script>
+  <script src="/lib/zoom/zoom.min.f592a181a15d2a5b042daa7f746c3721acf9063f8b6acd175d989129865a37d400ae0e85b640f9ad42cd98d1f8ad30931718cf8811abdcc5fcb264400d1a2b0c.js" integrity="sha512-9ZKhgaFdKlsELap/dGw3Iaz5Bj&#43;Las0XXZiRKYZaN9QArg6FtkD5rULNmNH4rTCTFxjPiBGr3MX8smRADRorDA=="></script>
   
   
   
@@ -103,7 +103,7 @@
     "name": "Post Install Fedora",
     "headline": "Post Install Fedora",
     "description": "a description",
-    "abstract": "Fedora Post-Installation Script # A comprehensive automation script for setting up a fresh Fedora 41 installation with essential software, configurations, and development tools.",
+    "abstract": "Fedora Post-Installation Script # A comprehensive automation script for setting up a fresh Fedora 41 Workstation installation with essential software, configurations, and development tools.",
     "inLanguage": "en",
     "url" : "http:\/\/localhost:1313\/personal-projects\/1736271656223-post-install-fedora\/",
     "author" : {
@@ -119,7 +119,7 @@
     "keywords": ["fedora","post install","linux","script"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "502"
+    "wordCount": "531"
   }]
   </script>
 
@@ -886,7 +886,7 @@
   
     
   
-  <li class="inline hidden">
+  <li class="hidden">
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
       href="/"
@@ -895,7 +895,7 @@
   </li>
 
   
-  <li class="inline ">
+  <li class="inline">
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
       href="/personal-projects/"
@@ -904,7 +904,7 @@
   </li>
 
   
-  <li class="inline hidden">
+  <li class="hidden">
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
       href="/personal-projects/1736271656223-post-install-fedora/"
@@ -1078,9 +1078,9 @@
     </span>        
     
 </h1>
-<p>A comprehensive automation script for setting up a fresh Fedora 41 installation with essential software, configurations, and development tools.</p>
+<p>A comprehensive automation script for setting up a fresh Fedora 41 Workstation installation with essential software, configurations, and development tools.</p>
 <blockquote>
-<p>Note: The script was designed for Fedora Workstation, but it may also work on other Fedora-based distributions. However, please be cautious and ensure compatibility before running it on other systems.</p>
+<p>Note: The script was designed for Fedora 41 Workstation, but it may also work on other Fedora-based distributions. However, please be cautious and ensure compatibility before running it on other systems.</p>
 </blockquote>
 <blockquote>
 <p>Important: While the script aims to automate setup tasks, it&rsquo;s essential to review the code and understand what it does before running it on your machine. Ensure that you back up critical data before proceeding. The script provided is for educational purposes and comes with no warranty or support.</p>
@@ -1123,6 +1123,7 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">post-install-fedora/
 </span></span><span class="line"><span class="cl">├── src/
 </span></span><span class="line"><span class="cl">│ ├── alias.sh <span class="c1"># Custom shell aliases configuration</span>
+</span></span><span class="line"><span class="cl">│ └── altTab.sh <span class="c1"># Alt+Tab behavior configuration</span>
 </span></span><span class="line"><span class="cl">│ ├── devEnv.sh <span class="c1"># Development environment setup</span>
 </span></span><span class="line"><span class="cl">│ ├── dnf-config.sh <span class="c1"># DNF package manager optimization</span>
 </span></span><span class="line"><span class="cl">│ ├── githubCloneAndConfig.sh <span class="c1"># GitHub repository setup</span>
@@ -1218,6 +1219,19 @@
 <li>Configures GitHub CLI</li>
 <li>Clones user repositories</li>
 <li>Sets up Git global configuration</li>
+</ul>
+</li>
+<li>
+<p><strong>altTab.sh</strong></p>
+<ul>
+<li>Configures Alt+Tab behavior</li>
+<li>Enables window previews for all open applications</li>
+</ul>
+</li>
+<li>
+<p><strong>homeScript.sh</strong></p>
+<ul>
+<li>Add update.sh, syncthingStatus.sh and swapAudio. to home directory</li>
 </ul>
 </li>
 </ol>
