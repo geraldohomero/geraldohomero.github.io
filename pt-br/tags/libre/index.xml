@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libre on geraldo:~$</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/libre/</link>
+    <link>http://localhost:1313/pt-br/tags/libre/</link>
     <description>Recent content in Libre on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/libre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/libre/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Melhores alternativas de software livre e de código aberto (nem todos) para foco em privacidade e segurança</title>
-      <link>https://geraldohomero.github.io/pt-br/posts/1732884870326-best-foss-alternatives/</link>
+      <link>http://localhost:1313/pt-br/blog/1732884870326-best-foss-alternatives/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/posts/1732884870326-best-foss-alternatives/</guid>
+      <guid>http://localhost:1313/pt-br/blog/1732884870326-best-foss-alternatives/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/posts/1732884870326-best-foss-alternatives/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/1732884870326-best-foss-alternatives/featured.png" />
     </item>
     
   </channel>

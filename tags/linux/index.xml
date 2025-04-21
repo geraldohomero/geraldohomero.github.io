@@ -29,25 +29,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
-    <item>
-      <title>Automating Post-Installation Setup on Pop!_OS with Custom Scripts</title>
-      <link>https://geraldohomero.github.io/posts/1732885121982-post-instal-pop-os/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://geraldohomero.github.io/posts/1732885121982-post-instal-pop-os/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/posts/1732885121982-post-instal-pop-os/featured.png" />
-    </item>
-    
-    <item>
-      <title>Zotero &#43; LibreOffice Integration (Linux/Ubuntu)</title>
-      <link>https://geraldohomero.github.io/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://geraldohomero.github.io/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/feature.jpg" />
-    </item>
-    
   </channel>
 </rss>
