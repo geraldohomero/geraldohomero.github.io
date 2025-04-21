@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PhD on geraldo@fedora:~$ |</title>
-    <link>http://localhost:1313/tags/phd/</link>
-    <description>Recent content in PhD on geraldo@fedora:~$ |</description>
+    <title>PhD on geraldo:~$</title>
+    <link>https://geraldohomero.github.io/tags/phd/</link>
+    <description>Recent content in PhD on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ph.D. Research</title>
-      <link>http://localhost:1313/research-projects/1739118101927-phd-research/</link>
+      <link>https://geraldohomero.github.io/research-projects/1739118101927-phd-research/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research-projects/1739118101927-phd-research/</guid>
+      <guid>https://geraldohomero.github.io/research-projects/1739118101927-phd-research/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1739118101927-phd-research/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1739118101927-phd-research/featured.png" />
     </item>
     
   </channel>

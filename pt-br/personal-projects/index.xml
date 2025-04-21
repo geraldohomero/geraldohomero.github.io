@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projetos Pessoais on geraldo@fedora:~$ |</title>
-    <link>http://localhost:1313/pt-br/personal-projects/</link>
-    <description>Recent content in Projetos Pessoais on geraldo@fedora:~$ |</description>
+    <title>Projetos Pessoais on geraldo:~$</title>
+    <link>https://geraldohomero.github.io/pt-br/personal-projects/</link>
+    <description>Recent content in Projetos Pessoais on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/personal-projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pós Instalação Fedora</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1736271656223-post-install-fedora/</link>
+      <link>https://geraldohomero.github.io/pt-br/personal-projects/1736271656223-post-install-fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1736271656223-post-install-fedora/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1736271656223-post-install-fedora/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1736271656223-post-install-fedora/featured.png" />
     </item>
     
     <item>
       <title>Processos Seletivos</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</link>
+      <link>https://geraldohomero.github.io/pt-br/personal-projects/1732969205483-admissions-process/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1732969205483-admissions-process/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/featured.png" />
     </item>
     
     <item>
       <title>Texto em Voz</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</link>
+      <link>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732884306827-text-to-speech/featured.png" />
     </item>
     
     <item>
       <title>Pós instalação Pop!_OS</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>https://geraldohomero.github.io/pt-br/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
   </channel>

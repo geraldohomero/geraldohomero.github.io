@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>React on geraldo@fedora:~$ |</title>
-    <link>http://localhost:1313/pt-br/tags/react/</link>
-    <description>Recent content in React on geraldo@fedora:~$ |</description>
+    <title>React on geraldo:~$</title>
+    <link>https://geraldohomero.github.io/pt-br/tags/react/</link>
+    <description>Recent content in React on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Processos Seletivos</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</link>
+      <link>https://geraldohomero.github.io/pt-br/personal-projects/1732969205483-admissions-process/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1732969205483-admissions-process/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1732969205483-admissions-process/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/featured.png" />
     </item>
     
     <item>
       <title>Texto em Voz</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</link>
+      <link>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/personal-projects/1732884306827-text-to-speech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732884306827-text-to-speech/featured.png" />
     </item>
     
   </channel>

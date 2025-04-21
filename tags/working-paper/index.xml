@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Working Paper on geraldo@fedora:~$ |</title>
-    <link>http://localhost:1313/tags/working-paper/</link>
-    <description>Recent content in Working Paper on geraldo@fedora:~$ |</description>
+    <title>Working Paper on geraldo:~$</title>
+    <link>https://geraldohomero.github.io/tags/working-paper/</link>
+    <description>Recent content in Working Paper on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/working-paper/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Machine Learning for Digital Humanities</title>
-      <link>http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
+      <link>https://geraldohomero.github.io/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
+      <guid>https://geraldohomero.github.io/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
     </item>
     
   </channel>

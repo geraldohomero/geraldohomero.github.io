@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zotero on geraldo@fedora:~$ |</title>
-    <link>http://localhost:1313/pt-br/tags/zotero/</link>
-    <description>Recent content in Zotero on geraldo@fedora:~$ |</description>
+    <title>Zotero on geraldo:~$</title>
+    <link>https://geraldohomero.github.io/pt-br/tags/zotero/</link>
+    <description>Recent content in Zotero on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Integração Zotero &#43; LibreOffice (Linux/Ubuntu)</title>
-      <link>http://localhost:1313/pt-br/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</link>
+      <link>https://geraldohomero.github.io/pt-br/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</guid>
+      <guid>https://geraldohomero.github.io/pt-br/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/posts/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/feature.jpg" />
     </item>
     
   </channel>

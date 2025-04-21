@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Automation on geraldo@fedora:~$ |</title>
-    <link>http://localhost:1313/tags/automation/</link>
-    <description>Recent content in Automation on geraldo@fedora:~$ |</description>
+    <title>Automation on geraldo:~$</title>
+    <link>https://geraldohomero.github.io/tags/automation/</link>
+    <description>Recent content in Automation on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automating Post-Installation Setup on Pop!_OS with Custom Scripts</title>
-      <link>http://localhost:1313/posts/1732885121982-post-instal-pop-os/</link>
+      <link>https://geraldohomero.github.io/posts/1732885121982-post-instal-pop-os/</link>
       <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1732885121982-post-instal-pop-os/</guid>
+      <guid>https://geraldohomero.github.io/posts/1732885121982-post-instal-pop-os/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1732885121982-post-instal-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/posts/1732885121982-post-instal-pop-os/featured.png" />
     </item>
     
   </channel>
