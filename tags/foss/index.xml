@@ -1,32 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Foss on geraldo:~$</title>
+    <title>FOSS on geraldo:~$</title>
     <link>http://localhost:1313/tags/foss/</link>
-    <description>Recent content in Foss on geraldo:~$</description>
+    <description>Recent content in FOSS on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/foss/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Best Free and Open Source Alternatives (not all) for Privacy and Security</title>
-      <link>http://localhost:1313/blog/1732884870326-best-foss-alternatives/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Best FOSS alternatives</title>
+      <link>http://localhost:1313/personal-projects/1758032201465-best-foss/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/1732884870326-best-foss-alternatives/</guid>
+      <guid>http://localhost:1313/personal-projects/1758032201465-best-foss/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/1732884870326-best-foss-alternatives/featured.png" />
-    </item>
-    
-    <item>
-      <title>Zotero &#43; LibreOffice Integration (Linux/Ubuntu)</title>
-      <link>http://localhost:1313/blog/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/1732969936710-zotero-&#43;-libreoffice-integration-ubuntu/linux/feature.jpg" />
     </item>
     
   </channel>

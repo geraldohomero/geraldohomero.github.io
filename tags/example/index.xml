@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example on geraldo@fedora:~$ |</title>
+    <title>Example on geraldo:~$</title>
     <link>http://localhost:1313/tags/example/</link>
-    <description>Recent content in Example on geraldo@fedora:~$ |</description>
+    <description>Recent content in Example on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>phd-research</title>
-      <link>http://localhost:1313/research-projects/1739118101927-phd-research/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <title>megasync-instances</title>
+      <link>http://localhost:1313/personal-projects/1758031068975-megasync-instances/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research-projects/1739118101927-phd-research/</guid>
-      <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1739118101927-phd-research/featured.png" />
+      <guid>http://localhost:1313/personal-projects/1758031068975-megasync-instances/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

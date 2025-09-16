@@ -2,179 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geraldo:~$</title>
-    <link>https://geraldohomero.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Best FOSS Alternatives</title>
+      <link>http://localhost:1313/personal-projects/1758032201465-best-foss/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/1758032201465-best-foss/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758032201465-best-foss/featured.png" />
+    </item>
+    
+    <item>
+      <title>MEGASync Multi-Instance Manager</title>
+      <link>http://localhost:1313/personal-projects/1758031068975-megasync-instances/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/1758031068975-megasync-instances/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758031068975-megasync-instances/featured.png" />
+    </item>
     
     <item>
       <title>Ph.D. Research</title>
-      <link>https://geraldohomero.github.io/research-projects/1739118101927-phd-research/</link>
+      <link>http://localhost:1313/research-projects/1739118101927-phd-research/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/research-projects/1739118101927-phd-research/</guid>
+      <guid>http://localhost:1313/research-projects/1739118101927-phd-research/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1739118101927-phd-research/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1739118101927-phd-research/featured.png" />
     </item>
     
     <item>
       <title>Post Install Fedora</title>
-      <link>https://geraldohomero.github.io/personal-projects/1736271656223-post-install-fedora/</link>
+      <link>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/personal-projects/1736271656223-post-install-fedora/</guid>
+      <guid>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1736271656223-post-install-fedora/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Extension Project Ch&#39;c Modas</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
+      <link>http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
     </item>
     
     <item>
       <title>Machine Learning for Digital Humanities</title>
-      <link>https://geraldohomero.github.io/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
+      <link>http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
+      <guid>http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
     </item>
     
     <item>
       <title>Admissions Process</title>
-      <link>https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/</link>
+      <link>http://localhost:1313/personal-projects/1732969205483-admissions-process/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/</guid>
+      <guid>http://localhost:1313/personal-projects/1732969205483-admissions-process/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732969205483-admissions-process/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Mei a Mei</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <link>http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
     <item>
       <title>Text to Speech</title>
-      <link>https://geraldohomero.github.io/personal-projects/1732884306827-text-to-speech/</link>
+      <link>http://localhost:1313/personal-projects/1732884306827-text-to-speech/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/personal-projects/1732884306827-text-to-speech/</guid>
+      <guid>http://localhost:1313/personal-projects/1732884306827-text-to-speech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1732884306827-text-to-speech/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
     </item>
     
     <item>
       <title>About</title>
-      <link>https://geraldohomero.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://geraldohomero.github.io/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post Install Pop!_OS </title>
-      <link>https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
     <item>
       <title> PUC Minas | Student Discount</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1732840855632-student-discount/</link>
+      <link>http://localhost:1313/undergraduate-projects/1732840855632-student-discount/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1732840855632-student-discount/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1732840855632-student-discount/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840855632-student-discount/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | TaskBook</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/</link>
+      <link>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1732840779263-taskbook/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840779263-taskbook/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | CalcFlex</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/</link>
+      <link>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1732841153119-calcflex/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>
       <title></title>
-      <link>https://geraldohomero.github.io/blog/</link>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/blog/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Master&#39;s Thesis Database</title>
-      <link>https://geraldohomero.github.io/research-projects/1733588216310-masters-thesis/</link>
+      <link>http://localhost:1313/research-projects/1733588216310-masters-thesis/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/research-projects/1733588216310-masters-thesis/</guid>
+      <guid>http://localhost:1313/research-projects/1733588216310-masters-thesis/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1733588216310-masters-thesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Pubs and Restaurants</title>
-      <link>https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <link>http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <guid>http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://geraldohomero.github.io/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description></description>
       
     </item>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pesquisa on geraldo:~$</title>
-    <link>https://geraldohomero.github.io/pt-br/tags/pesquisa/</link>
+    <link>http://localhost:1313/pt-br/tags/pesquisa/</link>
     <description>Recent content in Pesquisa on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://geraldohomero.github.io/pt-br/tags/pesquisa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/pesquisa/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pesquisa de Doutorado</title>
-      <link>https://geraldohomero.github.io/pt-br/research-projects/1739118101927-phd-research/</link>
+      <link>http://localhost:1313/pt-br/research-projects/1739118101927-phd-research/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/research-projects/1739118101927-phd-research/</guid>
+      <guid>http://localhost:1313/pt-br/research-projects/1739118101927-phd-research/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1739118101927-phd-research/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1739118101927-phd-research/featured.png" />
     </item>
     
     <item>
       <title>Banco de dados | Dissertação de Mestrado</title>
-      <link>https://geraldohomero.github.io/pt-br/research-projects/1733588216310-masters-thesis/</link>
+      <link>http://localhost:1313/pt-br/research-projects/1733588216310-masters-thesis/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://geraldohomero.github.io/pt-br/research-projects/1733588216310-masters-thesis/</guid>
+      <guid>http://localhost:1313/pt-br/research-projects/1733588216310-masters-thesis/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://geraldohomero.github.io/research-projects/1733588216310-masters-thesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
   </channel>
