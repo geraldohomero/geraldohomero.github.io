@@ -7,7 +7,117 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alternatives</title>
+      <link>http://localhost:1313/tags/alternatives/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/alternatives/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>http://localhost:1313/tags/bash/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FOSS</title>
+      <link>http://localhost:1313/tags/foss/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/foss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>List</title>
+      <link>http://localhost:1313/tags/list/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/list/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Megasync</title>
+      <link>http://localhost:1313/tags/megasync/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/megasync/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Personal Projects</title>
+      <link>http://localhost:1313/tags/personal-projects/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/personal-projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Script</title>
+      <link>http://localhost:1313/tags/script/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/script/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1313/tags/software/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Critical Internet Studies</title>
@@ -80,31 +190,11 @@
     </item>
     
     <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Post Install</title>
       <link>http://localhost:1313/tags/post-install/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/post-install/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Script</title>
-      <link>http://localhost:1313/tags/script/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/script/</guid>
       <description></description>
       
     </item>
@@ -230,16 +320,6 @@
     </item>
     
     <item>
-      <title>Personal Projects</title>
-      <link>http://localhost:1313/tags/personal-projects/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/personal-projects/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>React</title>
       <link>http://localhost:1313/tags/react/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
@@ -345,16 +425,6 @@
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/react.js/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>http://localhost:1313/tags/software/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/software/</guid>
       <description></description>
       
     </item>

@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/personal-projects/1758031068975-megasync-instances/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758031068975-megasync-instances/featured.png" />
     </item>
     
   </channel>

@@ -10,13 +10,13 @@
     <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Best FOSS alternatives</title>
+      <title>Best FOSS Alternatives</title>
       <link>http://localhost:1313/personal-projects/1758032201465-best-foss/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/personal-projects/1758032201465-best-foss/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758032201465-best-foss/featured.png" />
     </item>
     
   </channel>
