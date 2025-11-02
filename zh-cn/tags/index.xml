@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on geraldo:~$</title>
+    <link>http://localhost:32913/zh-cn/tags/</link>
+    <description>Recent content in Tags on geraldo:~$</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 光杰豪</copyright>
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bash</title>
+      <link>http://localhost:32913/zh-cn/tags/bash/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/bash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:32913/zh-cn/tags/linux/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Megasync</title>
+      <link>http://localhost:32913/zh-cn/tags/megasync/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/megasync/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>个人项目</title>
+      <link>http://localhost:32913/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>脚本</title>
+      <link>http://localhost:32913/zh-cn/tags/%E8%84%9A%E6%9C%AC/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E8%84%9A%E6%9C%AC/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>开源</title>
+      <link>http://localhost:32913/zh-cn/tags/%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E5%BC%80%E6%BA%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>列表</title>
+      <link>http://localhost:32913/zh-cn/tags/%E5%88%97%E8%A1%A8/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E5%88%97%E8%A1%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>软件</title>
+      <link>http://localhost:32913/zh-cn/tags/%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>替代</title>
+      <link>http://localhost:32913/zh-cn/tags/%E6%9B%BF%E4%BB%A3/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E6%9B%BF%E4%BB%A3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>隐私</title>
+      <link>http://localhost:32913/zh-cn/tags/%E9%9A%90%E7%A7%81/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E9%9A%90%E7%A7%81/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>自由开源软件</title>
+      <link>http://localhost:32913/zh-cn/tags/%E8%87%AA%E7%94%B1%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E8%87%AA%E7%94%B1%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Critical Internet Studies</title>
+      <link>http://localhost:32913/zh-cn/tags/critical-internet-studies/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/critical-internet-studies/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://localhost:32913/zh-cn/tags/data/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>http://localhost:32913/zh-cn/tags/database/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Humanities</title>
+      <link>http://localhost:32913/zh-cn/tags/digital-humanities/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/digital-humanities/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>http://localhost:32913/zh-cn/tags/phd/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/phd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:32913/zh-cn/tags/research/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>http://localhost:32913/zh-cn/tags/fedora/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/fedora/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>安装后</title>
+      <link>http://localhost:32913/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Buisiness</title>
+      <link>http://localhost:32913/zh-cn/tags/buisiness/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/buisiness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:32913/zh-cn/tags/collaboration/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/collaboration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Extension</title>
+      <link>http://localhost:32913/zh-cn/tags/extension/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/extension/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>http://localhost:32913/zh-cn/tags/industry/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/industry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://localhost:32913/zh-cn/tags/project/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/project/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Real-Client</title>
+      <link>http://localhost:32913/zh-cn/tags/real-client/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/real-client/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Real-World</title>
+      <link>http://localhost:32913/zh-cn/tags/real-world/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/real-world/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Undergraduation</title>
+      <link>http://localhost:32913/zh-cn/tags/undergraduation/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/undergraduation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:32913/zh-cn/tags/machine-learning/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Working Paper</title>
+      <link>http://localhost:32913/zh-cn/tags/working-paper/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/working-paper/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>http://localhost:32913/zh-cn/tags/react/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/react/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vercel</title>
+      <link>http://localhost:32913/zh-cn/tags/vercel/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/vercel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vite</title>
+      <link>http://localhost:32913/zh-cn/tags/vite/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/vite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web 开发</title>
+      <link>http://localhost:32913/zh-cn/tags/web-%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/web-%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>数据分析</title>
+      <link>http://localhost:32913/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>数据可视化</title>
+      <link>http://localhost:32913/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TypeScript</title>
+      <link>http://localhost:32913/zh-cn/tags/typescript/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/typescript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pop!_OS</title>
+      <link>http://localhost:32913/zh-cn/tags/pop_os/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/pop_os/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>安装后配置</title>
+      <link>http://localhost:32913/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E%E9%85%8D%E7%BD%AE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ASP.NET Core</title>
+      <link>http://localhost:32913/zh-cn/tags/asp.net-core/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/asp.net-core/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>http://localhost:32913/zh-cn/tags/bootstrap/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/bootstrap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>http://localhost:32913/zh-cn/tags/c%23/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/c%23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:32913/zh-cn/tags/css/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Expo</title>
+      <link>http://localhost:32913/zh-cn/tags/expo/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/expo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:32913/zh-cn/tags/html/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:32913/zh-cn/tags/javascript/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JSON Server</title>
+      <link>http://localhost:32913/zh-cn/tags/json-server/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/json-server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MVC</title>
+      <link>http://localhost:32913/zh-cn/tags/mvc/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/mvc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>http://localhost:32913/zh-cn/tags/mysql/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/mysql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PUC Minas</title>
+      <link>http://localhost:32913/zh-cn/tags/puc-minas/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/puc-minas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>React Native</title>
+      <link>http://localhost:32913/zh-cn/tags/react-native/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/react-native/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>REST</title>
+      <link>http://localhost:32913/zh-cn/tags/rest/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/rest/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SQLite</title>
+      <link>http://localhost:32913/zh-cn/tags/sqlite/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/sqlite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UML</title>
+      <link>http://localhost:32913/zh-cn/tags/uml/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/uml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Masters</title>
+      <link>http://localhost:32913/zh-cn/tags/masters/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/masters/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>http://localhost:32913/zh-cn/tags/thesis/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/thesis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Featured Project</title>
+      <link>http://localhost:32913/zh-cn/tags/featured-project/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/featured-project/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>http://localhost:32913/zh-cn/tags/json/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/tags/json/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on geraldo:~$</title>
+    <link>http://localhost:46411/zh-cn/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on geraldo:~$</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 光杰豪</copyright>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:46411/zh-cn/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Admissions Process</title>
+      <link>http://localhost:46411/zh-cn/personal-projects/1732969205483-admissions-process/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:46411/zh-cn/personal-projects/1732969205483-admissions-process/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46411/personal-projects/1732969205483-admissions-process/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

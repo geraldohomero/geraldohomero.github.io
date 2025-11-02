@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megasync on geraldo:~$</title>
-    <link>http://localhost:1313/pt-br/tags/megasync/</link>
+    <link>http://localhost:32913/pt-br/tags/megasync/</link>
     <description>Recent content in Megasync on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/megasync/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/pt-br/tags/megasync/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gerenciador de Múltiplas Instâncias do MEGASync</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1758031068975-megasync-instances/</link>
+      <link>http://localhost:32913/pt-br/personal-projects/1758031068975-megasync-instances/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1758031068975-megasync-instances/</guid>
+      <guid>http://localhost:32913/pt-br/personal-projects/1758031068975-megasync-instances/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758031068975-megasync-instances/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/personal-projects/1758031068975-megasync-instances/featured.png" />
     </item>
     
   </channel>

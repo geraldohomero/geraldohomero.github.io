@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JSON Server on geraldo:~$</title>
+    <link>http://localhost:32913/zh-cn/tags/json-server/</link>
+    <description>Recent content in JSON Server on geraldo:~$</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 光杰豪</copyright>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/zh-cn/tags/json-server/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PUC Minas | TaskBook</title>
+      <link>http://localhost:32913/zh-cn/undergraduate-projects/1732840779263-taskbook/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/undergraduate-projects/1732840779263-taskbook/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/undergraduate-projects/1732840779263-taskbook/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | CalcFlex</title>
+      <link>http://localhost:32913/zh-cn/undergraduate-projects/1732841153119-calcflex/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:32913/zh-cn/undergraduate-projects/1732841153119-calcflex/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/undergraduate-projects/1732841153119-calcflex/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Script on geraldo:~$</title>
-    <link>http://localhost:1313/tags/script/</link>
+    <link>http://localhost:32913/tags/script/</link>
     <description>Recent content in Script on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/tags/script/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MEGASync Multi-Instance Manager</title>
-      <link>http://localhost:1313/personal-projects/1758031068975-megasync-instances/</link>
+      <link>http://localhost:32913/personal-projects/1758031068975-megasync-instances/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/personal-projects/1758031068975-megasync-instances/</guid>
+      <guid>http://localhost:32913/personal-projects/1758031068975-megasync-instances/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758031068975-megasync-instances/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/personal-projects/1758031068975-megasync-instances/featured.png" />
     </item>
     
     <item>
       <title>Post Install Fedora</title>
-      <link>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</link>
+      <link>http://localhost:32913/personal-projects/1736271656223-post-install-fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/personal-projects/1736271656223-post-install-fedora/</guid>
+      <guid>http://localhost:32913/personal-projects/1736271656223-post-install-fedora/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/personal-projects/1736271656223-post-install-fedora/featured.png" />
     </item>
     
   </channel>

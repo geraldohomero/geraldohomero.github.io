@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UML on geraldo:~$</title>
-    <link>http://localhost:1313/tags/uml/</link>
+    <link>http://localhost:32913/tags/uml/</link>
     <description>Recent content in UML on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/uml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/tags/uml/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title> PUC Minas | Student Discount</title>
-      <link>http://localhost:1313/undergraduate-projects/1732840855632-student-discount/</link>
+      <link>http://localhost:32913/undergraduate-projects/1732840855632-student-discount/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/undergraduate-projects/1732840855632-student-discount/</guid>
+      <guid>http://localhost:32913/undergraduate-projects/1732840855632-student-discount/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/undergraduate-projects/1732840855632-student-discount/featured.png" />
     </item>
     
   </channel>

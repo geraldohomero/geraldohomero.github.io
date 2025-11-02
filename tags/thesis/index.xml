@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis on geraldo:~$</title>
-    <link>http://localhost:1313/tags/thesis/</link>
+    <link>http://localhost:32913/tags/thesis/</link>
     <description>Recent content in Thesis on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Master&#39;s Thesis Database</title>
-      <link>http://localhost:1313/research-projects/1733588216310-masters-thesis/</link>
+      <link>http://localhost:32913/research-projects/1733588216310-masters-thesis/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research-projects/1733588216310-masters-thesis/</guid>
+      <guid>http://localhost:32913/research-projects/1733588216310-masters-thesis/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
   </channel>
