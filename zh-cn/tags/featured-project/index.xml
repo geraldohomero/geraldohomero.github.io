@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Featured Project on geraldo:~$</title>
-    <link>http://localhost:32913/zh-cn/tags/featured-project/</link>
+    <link>http://localhost:35811/zh-cn/tags/featured-project/</link>
     <description>Recent content in Featured Project on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/zh-cn/tags/featured-project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35811/zh-cn/tags/featured-project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PUC Minas | Pubs and Restaurants</title>
-      <link>http://localhost:32913/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <title>PUC Minas | Mei a Mei</title>
+      <link>http://localhost:35811/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:35811/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+    </item>
+    
+    <item>
+      <title>PUC Minas | 酒吧与餐厅</title>
+      <link>http://localhost:35811/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:32913/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <guid>http://localhost:35811/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
   </channel>

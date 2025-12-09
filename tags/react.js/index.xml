@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React.js on geraldo:~$</title>
-    <link>http://localhost:32913/tags/react.js/</link>
+    <link>http://localhost:35811/tags/react.js/</link>
     <description>Recent content in React.js on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:32913/tags/react.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35811/tags/react.js/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Mei a Mei</title>
-      <link>http://localhost:32913/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <link>http://localhost:35811/undergraduate-projects/1732839230931-mei-a-mei/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:32913/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <guid>http://localhost:35811/undergraduate-projects/1732839230931-mei-a-mei/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:32913/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
   </channel>
