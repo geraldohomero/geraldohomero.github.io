@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>数据可视化 on geraldo:~$</title>
-    <link>http://localhost:35811/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+    <link>http://localhost:33857/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
     <description>Recent content in 数据可视化 on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35811/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/zh-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>招生流程</title>
-      <link>http://localhost:35811/zh-cn/personal-projects/1732969205483-admissions-process/</link>
+      <link>http://localhost:33857/zh-cn/personal-projects/1732969205483-admissions-process/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35811/zh-cn/personal-projects/1732969205483-admissions-process/</guid>
+      <guid>http://localhost:33857/zh-cn/personal-projects/1732969205483-admissions-process/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/personal-projects/1732969205483-admissions-process/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1732969205483-admissions-process/featured.png" />
     </item>
     
   </channel>

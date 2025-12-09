@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>替代 on geraldo:~$</title>
-    <link>http://localhost:35811/zh-cn/tags/%E6%9B%BF%E4%BB%A3/</link>
+    <link>http://localhost:33857/zh-cn/tags/%E6%9B%BF%E4%BB%A3/</link>
     <description>Recent content in 替代 on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35811/zh-cn/tags/%E6%9B%BF%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/zh-cn/tags/%E6%9B%BF%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>最佳自由开源软件（FOSS）替代方案</title>
-      <link>http://localhost:35811/zh-cn/personal-projects/1758032201465-best-foss/</link>
+      <link>http://localhost:33857/zh-cn/personal-projects/1758032201465-best-foss/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35811/zh-cn/personal-projects/1758032201465-best-foss/</guid>
+      <guid>http://localhost:33857/zh-cn/personal-projects/1758032201465-best-foss/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/personal-projects/1758032201465-best-foss/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1758032201465-best-foss/featured.png" />
     </item>
     
   </channel>

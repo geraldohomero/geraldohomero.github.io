@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>安装后配置 on geraldo:~$</title>
-    <link>http://localhost:35811/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E%E9%85%8D%E7%BD%AE/</link>
+    <link>http://localhost:33857/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E%E9%85%8D%E7%BD%AE/</link>
     <description>Recent content in 安装后配置 on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35811/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pop!_OS 安装后配置</title>
-      <link>http://localhost:35811/zh-cn/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>http://localhost:33857/zh-cn/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35811/zh-cn/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>http://localhost:33857/zh-cn/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
   </channel>

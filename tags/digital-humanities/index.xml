@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Humanities on geraldo:~$</title>
-    <link>http://localhost:35811/tags/digital-humanities/</link>
+    <link>http://localhost:33857/tags/digital-humanities/</link>
     <description>Recent content in Digital Humanities on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35811/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ph.D. Research</title>
-      <link>http://localhost:35811/research-projects/1739118101927-phd-research/</link>
+      <link>http://localhost:33857/research-projects/1739118101927-phd-research/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35811/research-projects/1739118101927-phd-research/</guid>
+      <guid>http://localhost:33857/research-projects/1739118101927-phd-research/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/research-projects/1739118101927-phd-research/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/research-projects/1739118101927-phd-research/featured.png" />
     </item>
     
     <item>
       <title>Machine Learning for Digital Humanities</title>
-      <link>http://localhost:35811/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
+      <link>http://localhost:33857/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35811/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
+      <guid>http://localhost:33857/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
     </item>
     
   </channel>

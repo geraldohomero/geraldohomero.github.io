@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Industry on geraldo:~$</title>
-    <link>http://localhost:35811/tags/industry/</link>
+    <link>http://localhost:33857/tags/industry/</link>
     <description>Recent content in Industry on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35811/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/tags/industry/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Extension Project Ch&#39;c Modas</title>
-      <link>http://localhost:35811/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
+      <link>http://localhost:33857/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35811/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
+      <guid>http://localhost:33857/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35811/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
     </item>
     
   </channel>

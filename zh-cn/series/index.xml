@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on geraldo:~$</title>
-    <link>http://localhost:35811/zh-cn/series/</link>
+    <link>http://localhost:33857/zh-cn/series/</link>
     <description>Recent content in Series on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 光杰豪</copyright>
-    <atom:link href="http://localhost:35811/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:33857/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
