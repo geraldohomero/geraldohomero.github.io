@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>项目 on geraldo:~$</title>
-    <link>http://localhost:33857/zh-cn/tags/%E9%A1%B9%E7%9B%AE/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E9%A1%B9%E7%9B%AE/</link>
     <description>Recent content in 项目 on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/zh-cn/tags/%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 光杰豪</copyright>
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>米纳斯天主大学 | Ch&#39;c Modas 拓展项目</title>
-      <link>http://localhost:33857/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
+      <link>http://localhost:1313/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
+      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
     </item>
     
     <item>
       <title>硕士论文数据库</title>
-      <link>http://localhost:33857/zh-cn/research-projects/1733588216310-masters-thesis/</link>
+      <link>http://localhost:1313/zh-cn/research-projects/1733588216310-masters-thesis/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/research-projects/1733588216310-masters-thesis/</guid>
+      <guid>http://localhost:1313/zh-cn/research-projects/1733588216310-masters-thesis/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/research-projects/1733588216310-masters-thesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
   </channel>

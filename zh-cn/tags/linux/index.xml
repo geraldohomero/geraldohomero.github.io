@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on geraldo:~$</title>
-    <link>http://localhost:33857/zh-cn/tags/linux/</link>
+    <link>http://localhost:1313/zh-cn/tags/linux/</link>
     <description>Recent content in Linux on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/zh-cn/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 光杰豪</copyright>
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MEGASync 多实例管理器</title>
-      <link>http://localhost:33857/zh-cn/personal-projects/1758031068975-megasync-instances/</link>
+      <link>http://localhost:1313/zh-cn/personal-projects/1758031068975-megasync-instances/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/personal-projects/1758031068975-megasync-instances/</guid>
+      <guid>http://localhost:1313/zh-cn/personal-projects/1758031068975-megasync-instances/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1758031068975-megasync-instances/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758031068975-megasync-instances/featured.png" />
     </item>
     
     <item>
       <title>Fedora 安装后</title>
-      <link>http://localhost:33857/zh-cn/personal-projects/1736271656223-post-install-fedora/</link>
+      <link>http://localhost:1313/zh-cn/personal-projects/1736271656223-post-install-fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/personal-projects/1736271656223-post-install-fedora/</guid>
+      <guid>http://localhost:1313/zh-cn/personal-projects/1736271656223-post-install-fedora/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1736271656223-post-install-fedora/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
     </item>
     
     <item>
       <title>Pop!_OS 安装后配置</title>
-      <link>http://localhost:33857/zh-cn/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>http://localhost:1313/zh-cn/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>http://localhost:1313/zh-cn/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
   </channel>

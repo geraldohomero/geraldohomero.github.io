@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>安装后 on geraldo:~$</title>
-    <link>http://localhost:33857/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E/</link>
     <description>Recent content in 安装后 on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 光杰豪</copyright>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E5%AE%89%E8%A3%85%E5%90%8E/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fedora 安装后</title>
-      <link>http://localhost:33857/zh-cn/personal-projects/1736271656223-post-install-fedora/</link>
+      <link>http://localhost:1313/zh-cn/personal-projects/1736271656223-post-install-fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/personal-projects/1736271656223-post-install-fedora/</guid>
+      <guid>http://localhost:1313/zh-cn/personal-projects/1736271656223-post-install-fedora/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1736271656223-post-install-fedora/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pop Os on geraldo:~$</title>
-    <link>http://localhost:33857/pt-br/tags/pop-os/</link>
+    <link>http://localhost:1313/pt-br/tags/pop-os/</link>
     <description>Recent content in Pop Os on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>© 2025 Geraldo Homero</copyright>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/pt-br/tags/pop-os/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Geraldo Homero</copyright>
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/pop-os/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pós instalação Pop!_OS</title>
-      <link>http://localhost:33857/pt-br/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/pt-br/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>http://localhost:1313/pt-br/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
   </channel>

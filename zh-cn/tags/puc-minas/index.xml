@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PUC Minas on geraldo:~$</title>
-    <link>http://localhost:33857/zh-cn/tags/puc-minas/</link>
+    <link>http://localhost:1313/zh-cn/tags/puc-minas/</link>
     <description>Recent content in PUC Minas on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 光杰豪</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:33857/zh-cn/tags/puc-minas/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 光杰豪</copyright>
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/puc-minas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PUC Minas | Mei a Mei</title>
-      <link>http://localhost:33857/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
     <item>
       <title> PUC Minas | 学生折扣</title>
-      <link>http://localhost:33857/zh-cn/undergraduate-projects/1732840855632-student-discount/</link>
+      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732840855632-student-discount/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/undergraduate-projects/1732840855632-student-discount/</guid>
+      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732840855632-student-discount/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/undergraduate-projects/1732840855632-student-discount/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | TaskBook</title>
-      <link>http://localhost:33857/zh-cn/undergraduate-projects/1732840779263-taskbook/</link>
+      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/undergraduate-projects/1732840779263-taskbook/</guid>
+      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732840779263-taskbook/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/undergraduate-projects/1732840779263-taskbook/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | CalcFlex</title>
-      <link>http://localhost:33857/zh-cn/undergraduate-projects/1732841153119-calcflex/</link>
+      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732841153119-calcflex/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/undergraduate-projects/1732841153119-calcflex/</guid>
+      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732841153119-calcflex/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | 酒吧与餐厅</title>
-      <link>http://localhost:33857/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33857/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:33857/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
   </channel>
