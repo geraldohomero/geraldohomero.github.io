@@ -443,4 +443,24 @@
       href="http://localhost:1313/pt-br/undergraduate-projects/1732840969851-pubs-and-restaurants/"
     />
   </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/personal-projects/filmow-2-letterboxd/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/filmow-2-letterboxd/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/personal-projects/filmow-2-letterboxd/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/filmow-2-letterboxd/"
+    />
+  </url>
 </urlset>

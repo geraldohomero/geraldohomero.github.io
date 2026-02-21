@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/personal-projects/filmow-2-letterboxd/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/filmow-2-letterboxd/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/personal-projects/filmow-2-letterboxd/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/filmow-2-letterboxd/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/personal-projects/1758032201465-best-foss/</loc>
     <lastmod>2025-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -21,27 +63,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/personal-projects/1758032201465-best-foss/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/"
     />
   </url>
   <url>

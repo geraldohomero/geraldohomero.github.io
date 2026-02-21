@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Filmow -&gt; Letterboxd</title>
+      <link>http://localhost:1313/personal-projects/filmow-2-letterboxd/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/filmow-2-letterboxd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/filmow-2-letterboxd/featured.png" />
+    </item>
     
     <item>
       <title>Best FOSS Alternatives</title>
