@@ -2,31 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Script on geraldo:~$</title>
-    <link>http://localhost:1313/pt-br/tags/script/</link>
+    <link>http://localhost:43967/pt-br/tags/script/</link>
     <description>Recent content in Script on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43967/pt-br/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Filmow -&gt; Letterboxd</title>
+      <link>http://localhost:43967/pt-br/personal-projects/filmow-2-letterboxd/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/personal-projects/filmow-2-letterboxd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/filmow-2-letterboxd/featured.png" />
+    </item>
     
     <item>
       <title>Gerenciador de Múltiplas Instâncias do MEGASync</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1758031068975-megasync-instances/</link>
+      <link>http://localhost:43967/pt-br/personal-projects/1758031068975-megasync-instances/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1758031068975-megasync-instances/</guid>
+      <guid>http://localhost:43967/pt-br/personal-projects/1758031068975-megasync-instances/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758031068975-megasync-instances/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1758031068975-megasync-instances/featured.png" />
     </item>
     
     <item>
       <title>Pós Instalação Fedora</title>
-      <link>http://localhost:1313/pt-br/personal-projects/1736271656223-post-install-fedora/</link>
+      <link>http://localhost:43967/pt-br/personal-projects/1736271656223-post-install-fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/personal-projects/1736271656223-post-install-fedora/</guid>
+      <guid>http://localhost:43967/pt-br/personal-projects/1736271656223-post-install-fedora/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1736271656223-post-install-fedora/featured.png" />
     </item>
     
   </channel>

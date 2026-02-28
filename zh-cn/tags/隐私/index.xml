@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>隐私 on geraldo:~$</title>
-    <link>http://localhost:1313/zh-cn/tags/%E9%9A%90%E7%A7%81/</link>
+    <link>http://localhost:43967/zh-cn/tags/%E9%9A%90%E7%A7%81/</link>
     <description>Recent content in 隐私 on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 光杰豪</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E9%9A%90%E7%A7%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43967/zh-cn/tags/%E9%9A%90%E7%A7%81/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>最佳自由开源软件（FOSS）替代方案</title>
-      <link>http://localhost:1313/zh-cn/personal-projects/1758032201465-best-foss/</link>
+      <link>http://localhost:43967/zh-cn/personal-projects/1758032201465-best-foss/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/personal-projects/1758032201465-best-foss/</guid>
+      <guid>http://localhost:43967/zh-cn/personal-projects/1758032201465-best-foss/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758032201465-best-foss/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1758032201465-best-foss/featured.png" />
     </item>
     
   </channel>

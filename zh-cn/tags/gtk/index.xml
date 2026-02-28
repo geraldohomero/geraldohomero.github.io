@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GTK on geraldo:~$</title>
+    <link>http://localhost:43967/zh-cn/tags/gtk/</link>
+    <description>Recent content in GTK on geraldo:~$</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 光杰豪</copyright>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43967/zh-cn/tags/gtk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GTKetchup</title>
+      <link>http://localhost:43967/zh-cn/personal-projects/gtketchup/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/zh-cn/personal-projects/gtketchup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/gtketchup/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

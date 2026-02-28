@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>工作论文 on geraldo:~$</title>
-    <link>http://localhost:1313/zh-cn/tags/%E5%B7%A5%E4%BD%9C%E8%AE%BA%E6%96%87/</link>
+    <link>http://localhost:43967/zh-cn/tags/%E5%B7%A5%E4%BD%9C%E8%AE%BA%E6%96%87/</link>
     <description>Recent content in 工作论文 on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 光杰豪</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E5%B7%A5%E4%BD%9C%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43967/zh-cn/tags/%E5%B7%A5%E4%BD%9C%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>数字人文的机器学习</title>
-      <link>http://localhost:1313/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
+      <link>http://localhost:43967/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
+      <guid>http://localhost:43967/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
     </item>
     
   </channel>

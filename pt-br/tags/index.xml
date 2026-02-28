@@ -2,619 +2,739 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on geraldo:~$</title>
-    <link>http://localhost:1313/pt-br/tags/</link>
+    <link>http://localhost:43967/pt-br/tags/</link>
     <description>Recent content in Tags on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43967/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Alternativas</title>
-      <link>http://localhost:1313/pt-br/tags/alternativas/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Desktop Application</title>
+      <link>http://localhost:43967/pt-br/tags/desktop-application/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/alternativas/</guid>
+      <guid>http://localhost:43967/pt-br/tags/desktop-application/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Bash</title>
-      <link>http://localhost:1313/pt-br/tags/bash/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <title>GNOME</title>
+      <link>http://localhost:43967/pt-br/tags/gnome/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/bash/</guid>
+      <guid>http://localhost:43967/pt-br/tags/gnome/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Código Aberto</title>
-      <link>http://localhost:1313/pt-br/tags/c%C3%B3digo-aberto/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <title>GTK</title>
+      <link>http://localhost:43967/pt-br/tags/gtk/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/c%C3%B3digo-aberto/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>FOSS</title>
-      <link>http://localhost:1313/pt-br/tags/foss/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/tags/foss/</guid>
+      <guid>http://localhost:43967/pt-br/tags/gtk/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/pt-br/tags/linux/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:43967/pt-br/tags/linux/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/linux/</guid>
+      <guid>http://localhost:43967/pt-br/tags/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Lista</title>
-      <link>http://localhost:1313/pt-br/tags/lista/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Pomodoro</title>
+      <link>http://localhost:43967/pt-br/tags/pomodoro/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/lista/</guid>
+      <guid>http://localhost:43967/pt-br/tags/pomodoro/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Megasync</title>
-      <link>http://localhost:1313/pt-br/tags/megasync/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Python</title>
+      <link>http://localhost:43967/pt-br/tags/python/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/megasync/</guid>
+      <guid>http://localhost:43967/pt-br/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Privacidade</title>
-      <link>http://localhost:1313/pt-br/tags/privacidade/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Timer</title>
+      <link>http://localhost:43967/pt-br/tags/timer/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/privacidade/</guid>
+      <guid>http://localhost:43967/pt-br/tags/timer/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Projetos Pessoais</title>
-      <link>http://localhost:1313/pt-br/tags/projetos-pessoais/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Beautifulsoup4</title>
+      <link>http://localhost:43967/pt-br/tags/beautifulsoup4/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/projetos-pessoais/</guid>
+      <guid>http://localhost:43967/pt-br/tags/beautifulsoup4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coleção</title>
+      <link>http://localhost:43967/pt-br/tags/cole%C3%A7%C3%A3o/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/cole%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Exportação</title>
+      <link>http://localhost:43967/pt-br/tags/exporta%C3%A7%C3%A3o/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/exporta%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Filmes</title>
+      <link>http://localhost:43967/pt-br/tags/filmes/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/filmes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Filmow</title>
+      <link>http://localhost:43967/pt-br/tags/filmow/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/filmow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Letterboxd</title>
+      <link>http://localhost:43967/pt-br/tags/letterboxd/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/letterboxd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Script</title>
-      <link>http://localhost:1313/pt-br/tags/script/</link>
+      <link>http://localhost:43967/pt-br/tags/script/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/script/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alternativas</title>
+      <link>http://localhost:43967/pt-br/tags/alternativas/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/script/</guid>
+      <guid>http://localhost:43967/pt-br/tags/alternativas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>http://localhost:43967/pt-br/tags/bash/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/bash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Código Aberto</title>
+      <link>http://localhost:43967/pt-br/tags/c%C3%B3digo-aberto/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/c%C3%B3digo-aberto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FOSS</title>
+      <link>http://localhost:43967/pt-br/tags/foss/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/foss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lista</title>
+      <link>http://localhost:43967/pt-br/tags/lista/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/lista/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Megasync</title>
+      <link>http://localhost:43967/pt-br/tags/megasync/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/megasync/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacidade</title>
+      <link>http://localhost:43967/pt-br/tags/privacidade/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/privacidade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projetos Pessoais</title>
+      <link>http://localhost:43967/pt-br/tags/projetos-pessoais/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/pt-br/tags/projetos-pessoais/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/pt-br/tags/software/</link>
+      <link>http://localhost:43967/pt-br/tags/software/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/software/</guid>
+      <guid>http://localhost:43967/pt-br/tags/software/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Banco De Dados</title>
-      <link>http://localhost:1313/pt-br/tags/banco-de-dados/</link>
+      <link>http://localhost:43967/pt-br/tags/banco-de-dados/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/banco-de-dados/</guid>
+      <guid>http://localhost:43967/pt-br/tags/banco-de-dados/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dados</title>
-      <link>http://localhost:1313/pt-br/tags/dados/</link>
+      <link>http://localhost:43967/pt-br/tags/dados/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/dados/</guid>
+      <guid>http://localhost:43967/pt-br/tags/dados/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Doutorado</title>
-      <link>http://localhost:1313/pt-br/tags/doutorado/</link>
+      <link>http://localhost:43967/pt-br/tags/doutorado/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/doutorado/</guid>
+      <guid>http://localhost:43967/pt-br/tags/doutorado/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Estudos Críticos Da Internet</title>
-      <link>http://localhost:1313/pt-br/tags/estudos-cr%C3%ADticos-da-internet/</link>
+      <link>http://localhost:43967/pt-br/tags/estudos-cr%C3%ADticos-da-internet/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/estudos-cr%C3%ADticos-da-internet/</guid>
+      <guid>http://localhost:43967/pt-br/tags/estudos-cr%C3%ADticos-da-internet/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Humanidades Digitais</title>
-      <link>http://localhost:1313/pt-br/tags/humanidades-digitais/</link>
+      <link>http://localhost:43967/pt-br/tags/humanidades-digitais/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/humanidades-digitais/</guid>
+      <guid>http://localhost:43967/pt-br/tags/humanidades-digitais/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pesquisa</title>
-      <link>http://localhost:1313/pt-br/tags/pesquisa/</link>
+      <link>http://localhost:43967/pt-br/tags/pesquisa/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/pesquisa/</guid>
+      <guid>http://localhost:43967/pt-br/tags/pesquisa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fedora</title>
-      <link>http://localhost:1313/pt-br/tags/fedora/</link>
+      <link>http://localhost:43967/pt-br/tags/fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/fedora/</guid>
+      <guid>http://localhost:43967/pt-br/tags/fedora/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post Install</title>
-      <link>http://localhost:1313/pt-br/tags/post-install/</link>
+      <link>http://localhost:43967/pt-br/tags/post-install/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/post-install/</guid>
+      <guid>http://localhost:43967/pt-br/tags/post-install/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cliente Real</title>
-      <link>http://localhost:1313/pt-br/tags/cliente-real/</link>
+      <link>http://localhost:43967/pt-br/tags/cliente-real/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/cliente-real/</guid>
+      <guid>http://localhost:43967/pt-br/tags/cliente-real/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Colaboração</title>
-      <link>http://localhost:1313/pt-br/tags/colabora%C3%A7%C3%A3o/</link>
+      <link>http://localhost:43967/pt-br/tags/colabora%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/colabora%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:43967/pt-br/tags/colabora%C3%A7%C3%A3o/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Extensão</title>
-      <link>http://localhost:1313/pt-br/tags/extens%C3%A3o/</link>
+      <link>http://localhost:43967/pt-br/tags/extens%C3%A3o/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/extens%C3%A3o/</guid>
+      <guid>http://localhost:43967/pt-br/tags/extens%C3%A3o/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Graduação</title>
-      <link>http://localhost:1313/pt-br/tags/gradua%C3%A7%C3%A3o/</link>
+      <link>http://localhost:43967/pt-br/tags/gradua%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/gradua%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:43967/pt-br/tags/gradua%C3%A7%C3%A3o/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Indústria</title>
-      <link>http://localhost:1313/pt-br/tags/ind%C3%BAstria/</link>
+      <link>http://localhost:43967/pt-br/tags/ind%C3%BAstria/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/ind%C3%BAstria/</guid>
+      <guid>http://localhost:43967/pt-br/tags/ind%C3%BAstria/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mundo Real</title>
-      <link>http://localhost:1313/pt-br/tags/mundo-real/</link>
+      <link>http://localhost:43967/pt-br/tags/mundo-real/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/mundo-real/</guid>
+      <guid>http://localhost:43967/pt-br/tags/mundo-real/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Negócios</title>
-      <link>http://localhost:1313/pt-br/tags/neg%C3%B3cios/</link>
+      <link>http://localhost:43967/pt-br/tags/neg%C3%B3cios/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/neg%C3%B3cios/</guid>
+      <guid>http://localhost:43967/pt-br/tags/neg%C3%B3cios/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projeto Final</title>
-      <link>http://localhost:1313/pt-br/tags/projeto-final/</link>
+      <link>http://localhost:43967/pt-br/tags/projeto-final/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/projeto-final/</guid>
+      <guid>http://localhost:43967/pt-br/tags/projeto-final/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Aprendizado De Máquina</title>
-      <link>http://localhost:1313/pt-br/tags/aprendizado-de-m%C3%A1quina/</link>
+      <link>http://localhost:43967/pt-br/tags/aprendizado-de-m%C3%A1quina/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/aprendizado-de-m%C3%A1quina/</guid>
+      <guid>http://localhost:43967/pt-br/tags/aprendizado-de-m%C3%A1quina/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Artigo Em Andamento</title>
-      <link>http://localhost:1313/pt-br/tags/artigo-em-andamento/</link>
+      <link>http://localhost:43967/pt-br/tags/artigo-em-andamento/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/artigo-em-andamento/</guid>
+      <guid>http://localhost:43967/pt-br/tags/artigo-em-andamento/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Analysis</title>
-      <link>http://localhost:1313/pt-br/tags/data-analysis/</link>
+      <link>http://localhost:43967/pt-br/tags/data-analysis/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/data-analysis/</guid>
+      <guid>http://localhost:43967/pt-br/tags/data-analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Visualization</title>
-      <link>http://localhost:1313/pt-br/tags/data-visualization/</link>
+      <link>http://localhost:43967/pt-br/tags/data-visualization/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/data-visualization/</guid>
+      <guid>http://localhost:43967/pt-br/tags/data-visualization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Personal Projects</title>
-      <link>http://localhost:1313/pt-br/tags/personal-projects/</link>
+      <link>http://localhost:43967/pt-br/tags/personal-projects/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/personal-projects/</guid>
+      <guid>http://localhost:43967/pt-br/tags/personal-projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>React</title>
-      <link>http://localhost:1313/pt-br/tags/react/</link>
+      <link>http://localhost:43967/pt-br/tags/react/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/react/</guid>
+      <guid>http://localhost:43967/pt-br/tags/react/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vercel</title>
-      <link>http://localhost:1313/pt-br/tags/vercel/</link>
+      <link>http://localhost:43967/pt-br/tags/vercel/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/vercel/</guid>
+      <guid>http://localhost:43967/pt-br/tags/vercel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vite</title>
-      <link>http://localhost:1313/pt-br/tags/vite/</link>
+      <link>http://localhost:43967/pt-br/tags/vite/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/vite/</guid>
+      <guid>http://localhost:43967/pt-br/tags/vite/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>http://localhost:1313/pt-br/tags/web-development/</link>
+      <link>http://localhost:43967/pt-br/tags/web-development/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/web-development/</guid>
+      <guid>http://localhost:43967/pt-br/tags/web-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Desenvolvimento</title>
-      <link>http://localhost:1313/pt-br/tags/desenvolvimento/</link>
+      <link>http://localhost:43967/pt-br/tags/desenvolvimento/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/desenvolvimento/</guid>
+      <guid>http://localhost:43967/pt-br/tags/desenvolvimento/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/pt-br/tags/javascript/</link>
+      <link>http://localhost:43967/pt-br/tags/javascript/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/javascript/</guid>
+      <guid>http://localhost:43967/pt-br/tags/javascript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MongoDB</title>
-      <link>http://localhost:1313/pt-br/tags/mongodb/</link>
+      <link>http://localhost:43967/pt-br/tags/mongodb/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/mongodb/</guid>
+      <guid>http://localhost:43967/pt-br/tags/mongodb/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projeto Destaque</title>
-      <link>http://localhost:1313/pt-br/tags/projeto-destaque/</link>
+      <link>http://localhost:43967/pt-br/tags/projeto-destaque/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/projeto-destaque/</guid>
+      <guid>http://localhost:43967/pt-br/tags/projeto-destaque/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PUC Minas</title>
-      <link>http://localhost:1313/pt-br/tags/puc-minas/</link>
+      <link>http://localhost:43967/pt-br/tags/puc-minas/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/puc-minas/</guid>
+      <guid>http://localhost:43967/pt-br/tags/puc-minas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>React Native</title>
-      <link>http://localhost:1313/pt-br/tags/react-native/</link>
+      <link>http://localhost:43967/pt-br/tags/react-native/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/react-native/</guid>
+      <guid>http://localhost:43967/pt-br/tags/react-native/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>React.js</title>
-      <link>http://localhost:1313/pt-br/tags/react.js/</link>
+      <link>http://localhost:43967/pt-br/tags/react.js/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/react.js/</guid>
+      <guid>http://localhost:43967/pt-br/tags/react.js/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>TypeScript</title>
-      <link>http://localhost:1313/pt-br/tags/typescript/</link>
+      <link>http://localhost:43967/pt-br/tags/typescript/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/typescript/</guid>
+      <guid>http://localhost:43967/pt-br/tags/typescript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pop Os</title>
-      <link>http://localhost:1313/pt-br/tags/pop-os/</link>
+      <link>http://localhost:43967/pt-br/tags/pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/pop-os/</guid>
+      <guid>http://localhost:43967/pt-br/tags/pop-os/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ASP.NET Core</title>
-      <link>http://localhost:1313/pt-br/tags/asp.net-core/</link>
+      <link>http://localhost:43967/pt-br/tags/asp.net-core/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/asp.net-core/</guid>
+      <guid>http://localhost:43967/pt-br/tags/asp.net-core/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bootstrap</title>
-      <link>http://localhost:1313/pt-br/tags/bootstrap/</link>
+      <link>http://localhost:43967/pt-br/tags/bootstrap/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/bootstrap/</guid>
+      <guid>http://localhost:43967/pt-br/tags/bootstrap/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C#</title>
-      <link>http://localhost:1313/pt-br/tags/c%23/</link>
+      <link>http://localhost:43967/pt-br/tags/c%23/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/c%23/</guid>
+      <guid>http://localhost:43967/pt-br/tags/c%23/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CSS</title>
-      <link>http://localhost:1313/pt-br/tags/css/</link>
+      <link>http://localhost:43967/pt-br/tags/css/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/css/</guid>
+      <guid>http://localhost:43967/pt-br/tags/css/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Expo</title>
-      <link>http://localhost:1313/pt-br/tags/expo/</link>
+      <link>http://localhost:43967/pt-br/tags/expo/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/expo/</guid>
+      <guid>http://localhost:43967/pt-br/tags/expo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>HTML</title>
-      <link>http://localhost:1313/pt-br/tags/html/</link>
+      <link>http://localhost:43967/pt-br/tags/html/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/html/</guid>
+      <guid>http://localhost:43967/pt-br/tags/html/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JSON Server</title>
-      <link>http://localhost:1313/pt-br/tags/json-server/</link>
+      <link>http://localhost:43967/pt-br/tags/json-server/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/json-server/</guid>
+      <guid>http://localhost:43967/pt-br/tags/json-server/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MVC</title>
-      <link>http://localhost:1313/pt-br/tags/mvc/</link>
+      <link>http://localhost:43967/pt-br/tags/mvc/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/mvc/</guid>
+      <guid>http://localhost:43967/pt-br/tags/mvc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MySQL</title>
-      <link>http://localhost:1313/pt-br/tags/mysql/</link>
+      <link>http://localhost:43967/pt-br/tags/mysql/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/mysql/</guid>
+      <guid>http://localhost:43967/pt-br/tags/mysql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>REST</title>
-      <link>http://localhost:1313/pt-br/tags/rest/</link>
+      <link>http://localhost:43967/pt-br/tags/rest/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/rest/</guid>
+      <guid>http://localhost:43967/pt-br/tags/rest/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SQLite</title>
-      <link>http://localhost:1313/pt-br/tags/sqlite/</link>
+      <link>http://localhost:43967/pt-br/tags/sqlite/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/sqlite/</guid>
+      <guid>http://localhost:43967/pt-br/tags/sqlite/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>UML</title>
-      <link>http://localhost:1313/pt-br/tags/uml/</link>
+      <link>http://localhost:43967/pt-br/tags/uml/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/uml/</guid>
+      <guid>http://localhost:43967/pt-br/tags/uml/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dissertação</title>
-      <link>http://localhost:1313/pt-br/tags/disserta%C3%A7%C3%A3o/</link>
+      <link>http://localhost:43967/pt-br/tags/disserta%C3%A7%C3%A3o/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/disserta%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:43967/pt-br/tags/disserta%C3%A7%C3%A3o/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mestrado</title>
-      <link>http://localhost:1313/pt-br/tags/mestrado/</link>
+      <link>http://localhost:43967/pt-br/tags/mestrado/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/mestrado/</guid>
+      <guid>http://localhost:43967/pt-br/tags/mestrado/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projeto</title>
-      <link>http://localhost:1313/pt-br/tags/projeto/</link>
+      <link>http://localhost:43967/pt-br/tags/projeto/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/projeto/</guid>
+      <guid>http://localhost:43967/pt-br/tags/projeto/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JSON</title>
-      <link>http://localhost:1313/pt-br/tags/json/</link>
+      <link>http://localhost:43967/pt-br/tags/json/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/tags/json/</guid>
+      <guid>http://localhost:43967/pt-br/tags/json/</guid>
       <description></description>
       
     </item>

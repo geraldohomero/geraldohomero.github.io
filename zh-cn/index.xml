@@ -2,201 +2,211 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geraldo:~$</title>
-    <link>http://localhost:1313/zh-cn/</link>
+    <link>http://localhost:43967/zh-cn/</link>
     <description>Recent content on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 光杰豪</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43967/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GTKetchup</title>
+      <link>http://localhost:43967/zh-cn/personal-projects/gtketchup/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/zh-cn/personal-projects/gtketchup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/gtketchup/featured.png" />
+    </item>
+    
+    <item>
+      <title>Filmow -&gt; Letterboxd</title>
+      <link>http://localhost:43967/zh-cn/personal-projects/filmow-2-letterboxd/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43967/zh-cn/personal-projects/filmow-2-letterboxd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/filmow-2-letterboxd/featured.png" />
+    </item>
     
     <item>
       <title>MEGASync 多实例管理器</title>
-      <link>http://localhost:1313/zh-cn/personal-projects/1758031068975-megasync-instances/</link>
+      <link>http://localhost:43967/zh-cn/personal-projects/1758031068975-megasync-instances/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/personal-projects/1758031068975-megasync-instances/</guid>
+      <guid>http://localhost:43967/zh-cn/personal-projects/1758031068975-megasync-instances/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758031068975-megasync-instances/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1758031068975-megasync-instances/featured.png" />
     </item>
     
     <item>
       <title>最佳自由开源软件（FOSS）替代方案</title>
-      <link>http://localhost:1313/zh-cn/personal-projects/1758032201465-best-foss/</link>
+      <link>http://localhost:43967/zh-cn/personal-projects/1758032201465-best-foss/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/personal-projects/1758032201465-best-foss/</guid>
+      <guid>http://localhost:43967/zh-cn/personal-projects/1758032201465-best-foss/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1758032201465-best-foss/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1758032201465-best-foss/featured.png" />
     </item>
     
     <item>
       <title>博士研究</title>
-      <link>http://localhost:1313/zh-cn/research-projects/1739118101927-phd-research/</link>
+      <link>http://localhost:43967/zh-cn/research-projects/1739118101927-phd-research/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/research-projects/1739118101927-phd-research/</guid>
+      <guid>http://localhost:43967/zh-cn/research-projects/1739118101927-phd-research/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1739118101927-phd-research/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/research-projects/1739118101927-phd-research/featured.png" />
     </item>
     
     <item>
       <title>Fedora 安装后</title>
-      <link>http://localhost:1313/zh-cn/personal-projects/1736271656223-post-install-fedora/</link>
+      <link>http://localhost:43967/zh-cn/personal-projects/1736271656223-post-install-fedora/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/personal-projects/1736271656223-post-install-fedora/</guid>
+      <guid>http://localhost:43967/zh-cn/personal-projects/1736271656223-post-install-fedora/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1736271656223-post-install-fedora/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1736271656223-post-install-fedora/featured.png" />
     </item>
     
     <item>
       <title>米纳斯天主大学 | Ch&#39;c Modas 拓展项目</title>
-      <link>http://localhost:1313/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
+      <link>http://localhost:43967/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
+      <guid>http://localhost:43967/zh-cn/undergraduate-projects/1734381622577-extension-project-chic-modas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/undergraduate-projects/1734381622577-extension-project-chic-modas/featured.png" />
     </item>
     
     <item>
       <title>数字人文的机器学习</title>
-      <link>http://localhost:1313/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
+      <link>http://localhost:43967/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
+      <guid>http://localhost:43967/zh-cn/research-projects/1733960161727-machine-learning-for-digital-humanities/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/research-projects/1733960161727-machine-learning-for-digital-humanities/featured.png" />
     </item>
     
     <item>
       <title>招生流程</title>
-      <link>http://localhost:1313/zh-cn/personal-projects/1732969205483-admissions-process/</link>
+      <link>http://localhost:43967/zh-cn/personal-projects/1732969205483-admissions-process/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/personal-projects/1732969205483-admissions-process/</guid>
+      <guid>http://localhost:43967/zh-cn/personal-projects/1732969205483-admissions-process/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732969205483-admissions-process/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1732969205483-admissions-process/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | Mei a Mei</title>
-      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</link>
+      <link>http://localhost:43967/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</guid>
+      <guid>http://localhost:43967/zh-cn/undergraduate-projects/1732839230931-mei-a-mei/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/undergraduate-projects/1732839230931-mei-a-mei/featured.png" />
     </item>
     
     <item>
       <title>文本转语音</title>
-      <link>http://localhost:1313/zh-cn/personal-projects/1732884306827-text-to-speech/</link>
+      <link>http://localhost:43967/zh-cn/personal-projects/1732884306827-text-to-speech/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/personal-projects/1732884306827-text-to-speech/</guid>
+      <guid>http://localhost:43967/zh-cn/personal-projects/1732884306827-text-to-speech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1732884306827-text-to-speech/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1732884306827-text-to-speech/featured.png" />
     </item>
     
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/zh-cn/about/</link>
+      <link>http://localhost:43967/zh-cn/about/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/about/</guid>
+      <guid>http://localhost:43967/zh-cn/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>研究</title>
-      <link>http://localhost:1313/zh-cn/research/</link>
+      <link>http://localhost:43967/zh-cn/research/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/research/</guid>
+      <guid>http://localhost:43967/zh-cn/research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pop!_OS 安装后配置</title>
-      <link>http://localhost:1313/zh-cn/personal-projects/1733595482602-post-install-pop-os/</link>
+      <link>http://localhost:43967/zh-cn/personal-projects/1733595482602-post-install-pop-os/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/personal-projects/1733595482602-post-install-pop-os/</guid>
+      <guid>http://localhost:43967/zh-cn/personal-projects/1733595482602-post-install-pop-os/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/1733595482602-post-install-pop-os/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/personal-projects/1733595482602-post-install-pop-os/featured.png" />
     </item>
     
     <item>
       <title> PUC Minas | 学生折扣</title>
-      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732840855632-student-discount/</link>
+      <link>http://localhost:43967/zh-cn/undergraduate-projects/1732840855632-student-discount/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732840855632-student-discount/</guid>
+      <guid>http://localhost:43967/zh-cn/undergraduate-projects/1732840855632-student-discount/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840855632-student-discount/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/undergraduate-projects/1732840855632-student-discount/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | TaskBook</title>
-      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732840779263-taskbook/</link>
+      <link>http://localhost:43967/zh-cn/undergraduate-projects/1732840779263-taskbook/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732840779263-taskbook/</guid>
+      <guid>http://localhost:43967/zh-cn/undergraduate-projects/1732840779263-taskbook/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840779263-taskbook/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/undergraduate-projects/1732840779263-taskbook/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | CalcFlex</title>
-      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732841153119-calcflex/</link>
+      <link>http://localhost:43967/zh-cn/undergraduate-projects/1732841153119-calcflex/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732841153119-calcflex/</guid>
+      <guid>http://localhost:43967/zh-cn/undergraduate-projects/1732841153119-calcflex/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732841153119-calcflex/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/undergraduate-projects/1732841153119-calcflex/featured.png" />
     </item>
     
     <item>
       <title>InfoGuerrilla 博客</title>
-      <link>http://localhost:1313/zh-cn/blog/</link>
+      <link>http://localhost:43967/zh-cn/blog/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/blog/</guid>
+      <guid>http://localhost:43967/zh-cn/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>硕士论文数据库</title>
-      <link>http://localhost:1313/zh-cn/research-projects/1733588216310-masters-thesis/</link>
+      <link>http://localhost:43967/zh-cn/research-projects/1733588216310-masters-thesis/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/research-projects/1733588216310-masters-thesis/</guid>
+      <guid>http://localhost:43967/zh-cn/research-projects/1733588216310-masters-thesis/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research-projects/1733588216310-masters-thesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/research-projects/1733588216310-masters-thesis/featured.png" />
     </item>
     
     <item>
       <title>PUC Minas | 酒吧与餐厅</title>
-      <link>http://localhost:1313/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
+      <link>http://localhost:43967/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
+      <guid>http://localhost:43967/zh-cn/undergraduate-projects/1732840969851-pubs-and-restaurants/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/zh-cn/personal-projects/filmow-2-letterboxd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/zh-cn/personal-projects/filmow-2-letterboxd/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/filmow-2-letterboxd/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:43967/undergraduate-projects/1732840969851-pubs-and-restaurants/featured.png" />
     </item>
     
   </channel>
