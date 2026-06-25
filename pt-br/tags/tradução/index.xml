@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tradução on geraldo:~$</title>
-    <link>http://localhost:38107/pt-br/tags/tradu%C3%A7%C3%A3o/</link>
+    <link>http://localhost:34335/pt-br/tags/tradu%C3%A7%C3%A3o/</link>
     <description>Recent content in Tradução on geraldo:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Geraldo Homero</copyright>
-    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:38107/pt-br/tags/tradu%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:34335/pt-br/tags/tradu%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video Language Learner</title>
-      <link>http://localhost:38107/pt-br/personal-projects/vll/</link>
+      <link>http://localhost:34335/pt-br/personal-projects/vll/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:38107/pt-br/personal-projects/vll/</guid>
+      <guid>http://localhost:34335/pt-br/personal-projects/vll/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38107/personal-projects/vll/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34335/personal-projects/vll/featured.png" />
     </item>
     
   </channel>

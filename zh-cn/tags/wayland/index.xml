@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wayland on geraldo:~$</title>
+    <link>http://localhost:34335/zh-cn/tags/wayland/</link>
+    <description>Recent content in Wayland on geraldo:~$</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 光杰豪</copyright>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:34335/zh-cn/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Narro - 听所选文本</title>
+      <link>http://localhost:34335/zh-cn/personal-projects/narro-read-selection-aloud/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34335/zh-cn/personal-projects/narro-read-selection-aloud/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:34335/personal-projects/narro-read-selection-aloud/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
