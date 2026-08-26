@@ -2415,12 +2415,9 @@
     <header>
       
       
-        <div class="min-h-[148px]"></div>
-<div class="fixed top-0 inset-x-0 z-100">
-  <div
-    id="menu-blur"
-    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl bg-neutral/25 dark:bg-neutral-800/25"></div>
-  <div class="relative m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32">
+        <div class="min-h-32"></div>
+<div class="fixed inset-x-0 top-3 z-100 px-3 sm:top-5 sm:px-6">
+  <div class="mx-auto max-w-7xl rounded-2xl border border-neutral-200/80 bg-neutral/60 px-3 shadow-lg shadow-neutral-900/5 backdrop-blur-xl dark:border-neutral-700/80 dark:bg-neutral-800/60 [&_img.logo]:max-h-10 [&_img.logo]:max-w-10">
     <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
   
   
@@ -2728,7 +2725,7 @@
     </div>
     <div class="flex md:hidden">
       
-<div class="mobile-header-row mobile-menu-fullscreen relative flex items-center h-14 gap-4">
+<div class="mobile-header-row relative flex items-center h-14 gap-4">
   
     
   <div class="translation nested-menu">
@@ -2818,7 +2815,7 @@
       style="scrollbar-gutter: stable;"
       class="z-50 invisible overflow-y-auto opacity-0 transition-[opacity,visibility] duration-300 peer-checked:visible peer-checked:opacity-100
       
-        fixed inset-0 px-6 py-20 bg-neutral-50/97 dark:bg-neutral-900/99
+        absolute end-0 top-[calc(100%+0.75rem)] z-10 w-[min(22rem,calc(100vw-1.5rem))] rounded-2xl border border-neutral-200/80 bg-neutral/95 p-5 shadow-2xl shadow-neutral-900/20 dark:border-neutral-700/80 dark:bg-neutral-800/95
       
       bf-scrollbar">
       <label
@@ -2827,14 +2824,14 @@
         role="button"
         aria-expanded="false"
         aria-controls="mobile-menu-dialog"
-        class="fixed end-8 top-5 z-50 h-12 w-12 rounded-full flex items-center justify-center cursor-pointer select-none bf-icon-color-hover border bf-border-color bf-border-color-hover bg-neutral-50 dark:bg-neutral-900">
+        class="absolute end-3 top-3 h-10 w-10 rounded-xl flex items-center justify-center cursor-pointer select-none bf-icon-color-hover border bf-border-color bf-border-color-hover bg-neutral-50 dark:bg-neutral-900">
         <span class="sr-only">Close menu</span>
         <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
 </span>
       </label>
       <nav
         aria-label="Mobile menu"
-        class="mx-auto max-w-md space-y-6">
+        class="mt-10 space-y-3">
         
   
     
@@ -3121,13 +3118,6 @@
 
   </div>
 </div>
-
-
-<script
-  type="text/javascript"
-  src="/js/background-blur.min.2b8477cfbdb6843f33fd6f7c9a9a1343c895e878a7b55c32979586e6c6ba1018372c0c66a011abdbd7bc1a912f98ea249043c82bfae8fb04a0f37f854ee1e920.js"
-  integrity="sha512-K4R3z722hD8z/W98mpoTQ8iV6HintVwyl5WG5sa6EBg3LAxmoBGr29e8GpEvmOokkEPIK/ro&#43;wSg83&#43;FTuHpIA=="
-  data-blur-id="menu-blur"></script>
 
       
     </header>
@@ -3452,7 +3442,7 @@
     <span
       class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
   
-    GNOME
+    Gnome
   </span>
 </span>
 
