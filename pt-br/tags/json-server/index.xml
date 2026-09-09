@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JSON Server on geraldo:~$</title>
+    <title>JSON Server on geraldo@web:~$</title>
     <link>http://localhost:1313/pt-br/tags/json-server/</link>
-    <description>Recent content in JSON Server on geraldo:~$</description>
+    <description>Recent content in JSON Server on geraldo@web:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Geraldo Homero</copyright>

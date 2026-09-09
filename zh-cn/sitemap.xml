@@ -3,27 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/zh-cn/</loc>
-    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/zh-cn/personal-projects/rota-frete/</loc>
     <lastmod>2026-08-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -42,6 +21,27 @@
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/zh-cn/personal-projects/rota-frete/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/"
     />
   </url>
   <url>

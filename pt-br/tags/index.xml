@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on geraldo:~$</title>
+    <title>Tags on geraldo@web:~$</title>
     <link>http://localhost:1313/pt-br/tags/</link>
-    <description>Recent content in Tags on geraldo:~$</description>
+    <description>Recent content in Tags on geraldo@web:~$</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Geraldo Homero</copyright>
@@ -660,7 +660,7 @@
     </item>
     
     <item>
-      <title>Javascript</title>
+      <title>JavaScript</title>
       <link>http://localhost:1313/pt-br/tags/javascript/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
